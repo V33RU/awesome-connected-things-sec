@@ -42,92 +42,159 @@
 
 ********************************************************************************************************************************
 
+# 🛡️ IoT & Hardware Security – Master Resource Index
 
-# 🛠️ Approach Methodology
+---
+## 🛠️ Approach Methodology
+| # | Focus Area                                   | Emoji |
+|---|----------------------------------------------|-------|
+| 1 | [Network Security](#network-security)        | 🌐    |
+| 2 | [Web Protocols & APIs](#web-protocols--apis) | 🌍    |
+| 3 | [Mobile App Security](#mobile-application-security) | 📱    |
+| 4 | [Wireless Protocols](#wireless-protocols)    | 📡    |
+| 5 | [Firmware Security](#firmware-security--reverse-engineering) | 💽    |
+| 6 | [Hardware Attacks](#hardware--physical-attacks) | 🛠️    |
+| 7 | [Storage Security](#storage--data-security)  | 💾    |
+| 8 | [I/O Ports](#hardware--physical-attacks)     | 🔌    |
 
-- 🌐 **1. Network**
-- 🌐 **2. Web (Front & Backend and Web services)**
-- 📱 **3. Mobile App (Android & iOS)**
-- 📡 **4. Wireless Connectivity (Zigbee, WiFi, Bluetooth, etc)**
-- 💽 **5. Firmware Pentesting (Static and Dynamic analysis, OS of IoT Devices)**
-- 🛠️ **6. Hardware Hacking & Fault Injections & SCA Attacks**
-- 💾 **7. Storage Medium**
-- 🔌 **8. I/O Ports**
+## 🧭 Table of Contents
+- [Approach Methodology](#approach-methodology)
+- [Resource Index](#resource-index)
+    - [🌐 Network Security](#network-security)
+    - [🌍 Web Protocols & APIs](#web-protocols--apis)
+    - [📱 Mobile Application Security](#mobile-application-security)
+    - [📡 Wireless Protocols](#wireless-protocols)
+    - [💽 Firmware Security & RE](#firmware-security--reverse-engineering)
+    - [🛠️ Hardware & Physical Attacks](#hardware--physical-attacks)
+    - [💾 Storage & Data Security](#storage--data-security)
+    - [💳 Payment/Transaction Security](#paymenttransaction-security)
+- [General Information & Community](#general-information--community)
+- [Learning & Training](#learning--training)
+- [Technical Research, Labs & CTFs](#technical-research-labs--ctfs)
+- [Books, Blogs, Cheatsheets](#books-blogs-cheatsheets)
+- [Search Engines & Device Discovery](#search-engines--device-discovery)
+- [Exploitation Tools & Pentesting OS](#exploitation-tools--pentesting-os)
+---
+## 🗂️ Resource Index
 
-## 📑 Contents Overview
+### 🌐 **Network Security**
+- [Segmentation, Device Discovery, Sniffing, MITM](#)
+- [Network Attack Tools](#exploitation-tools--pentesting-os)
+- [IoT Network Protocols (MQTT, CoAP, etc)](#web-protocols--apis)
 
-### 🛡️ IoT Security Information
+### 🌍 **Web Protocols & APIs**
+- [MQTT](#mqtt)
+- [CoAP](#coap)
+- [REST/SOAP APIs](#)
+- [Web (Front, Backend, Web Services)](#)
 
-#### 🛡️ **General Information and Resources in IoT Security**
+### 📱 **Mobile Application Security**
+- [Android & iOS Security](#mobile-security-android--ios)
+- [App Reverse Engineering](#)
+- [Mobile Device Management](#)
 
+### 📡 **Wireless Protocols**
+- [Radio Hacking Quick Start Guide](#radio-hacker-quick-start-guide)
+- [Cellular Hacking (GSM/BTS)](#cellular-hacking-gsm-bts)
+- [Zigbee](#zigbee-all-stuff)
+- [Bluetooth](#ble-intro-and-sw-hw-tools-to-pentest)
+- [DECT](#dect-digital-enhanced-cordless-telecommunications)
+- [NFC/RFID](#nfc-rfid)
 
-- [👥 ***Community and Discussion Platforms***](#community-and-discussion-platforms)
-- [🎓 ***IoT and Hardware Security Trainings***](#iot-and-hardware-security-trainings)
-- [🔍 ***Technical Research and Hacking***](#technical-research-and-hacking)
-- [💻 ***Proof of Concepts: Known Device Vulnerabilities***](#proof-of-concepts-known-device-vulnerabilities)
-- [📚 ***Books for IoT Penetration Testing***](#books-for-iot-penetration-testing)
-- [🖋️ ***Blogs for IoT Pentest***](#blogs-for-iot-pentest)
-- [📋 ***Awesome Cheatsheets***](#awesome-cheatsheets)
-- [🔍 ***Search Engines for Exposed IoT Devices Worldwide***](#search-engines-for-exposed-iot-devices-worldwide)
-- [🚩 ***CTF: Vulnerable IoT and Hardware Applications***](#vulnerable-iot-and-hardware-applications)
-- [📺 ***YouTube Channels for IoT Pentesting***](#youtube-channels-for-iot-pentesting)
-- [⚒️ ***Exploitation Tools***](#exploitation-tools)
-- [🖥️ ***IoT Pentesting OSes***](#iot-pentesting-oses)
-- [📘 ***IoT Vulnerabilities Checking Guides***](#iot-vulnerabilities-checking-guides)
-- [🔬 ***IoT Labs***](#vulnerable-iot-and-hardware-applications)
-- [📖 ***Awesome IoT Pentesting Guides***](#awesome-iot-pentesting-guides)
-- [🐛 ***Fuzzing Things***](#fuzzing-things)
-- [🏢 ***IoT Lab Setup Guide for Corporate/Individual***](https://github.com/IoT-PTv/IoT-Lab-Setup)
-- [🔧 ***FlipperZero***](#flipperzero)
-- [🏘 ***Villages***](#villages)
+### 💽 **Firmware Security & Reverse Engineering**
+- [Reverse Engineering Tools](#reverse-engineering-tools)
+- [Online Assemblers](#online-assemblers)
+- [ARM](#arm)
+- [Firmware Emulation & Analysis](#pentesting-firmwares-and-emulating-and-analyzing)
+- [Firmware Samples](#firmware-samples-to-pentest)
+- [Secure Boot](#secureboot)
+- [Binary Analysis](#binary-analysis)
 
+### 🛠️ **Hardware & Physical Attacks**
+- [IoT Hardware Overview & Hacking](#iot-hardware-overview-and-hacking)
+- [Essential Hardware for IoT Pentest](#hardware-gadgets-to-pentest)
+- [Hardware Interfaces: SPI, UART, JTAG, TPM](#attacking-hardware-interfaces)
+    - [SPI](#spi)
+    - [UART](#uart)
+    - [JTAG](#jtag)
+    - [TPM](#tpm)
+- [Side Channel & Glitching Attacks](#sidechannel-attacks)
 
-## **Specific Topics in IoT Security**
+### 💾 **Storage & Data Security**
+- [EMMC](#emmc-protocol-and-techniques)
 
-#### 🌐 **Network**
+### 💳 **Payment/Transaction Security**
+- [ATM Hacking](#atm-hacking)
 
-#### 🌐 **Web IoT Message Protocols**
-- [📨 ***MQTT***](#mqtt)
-- [📬 ***CoAP***](#coap)
+---
 
-#### 📱 **Mobile App**
-- [🛡***Mobile Security (Android & iOS)***](#mobile-security-android--ios)
+### 🛡️ General Information & Community
 
-#### 📡 **Wireless Protocols**
-- [📻 ***Radio Hacking Starting Guide***](#Radio-Hacker-Quick-Start-Guide)
-- [📡 ***Cellular Hacking GSM BTS***](#cellular-hacking-gsm-bts)
-- [🐝 ***Zigbee***](#zigbee-all-stuff)
-- [🔵 ***Bluetooth***](#ble-intro-and-sw-hw-tools-to-pentest)
-- [📞 ***DECT***](#dect-digital-enhanced-cordless-telecommunications)
-- [📲 ***NFC***](#nfc-rfid)
+- [👥 **Community and Discussion Platforms**](#community-and-discussion-platforms)
+- [🎓 **IoT and Hardware Security Trainings**](#iot-and-hardware-security-trainings)
+- [🔍 **Technical Research and Hacking**](#technical-research-and-hacking)
+- [💻 **Proof of Concepts: Known Device Vulnerabilities**](#proof-of-concepts-known-device-vulnerabilities)
+- [📚 **Books for IoT Penetration Testing**](#books-for-iot-penetration-testing)
+- [🖋️ **Blogs for IoT Pentest**](#blogs-for-iot-pentest)
+- [📋 **Awesome Cheatsheets**](#awesome-cheatsheets)
+- [🔍 **Search Engines for Exposed IoT Devices Worldwide**](#search-engines-for-exposed-iot-devices-worldwide)
+- [🚩 **CTF: Vulnerable IoT and Hardware Applications**](#vulnerable-iot-and-hardware-applications)
+- [📺 **YouTube Channels for IoT Pentesting**](#youtube-channels-for-iot-pentesting)
+- [⚒️ **Exploitation Tools**](#exploitation-tools)
+- [🖥️ **IoT Pentesting OSes**](#iot-pentesting-oses)
+- [📘 **IoT Vulnerabilities Checking Guides**](#iot-vulnerabilities-checking-guides)
+- [🔬 **IoT Labs**](#vulnerable-iot-and-hardware-applications)
+- [📖 **Awesome IoT Pentesting Guides**](#awesome-iot-pentesting-guides)
+- [🐛 **Fuzzing Things**](#fuzzing-things)
+- [🏢 **IoT Lab Setup Guide for Corporate/Individual**](https://github.com/IoT-PTv/IoT-Lab-Setup)
+- [🔧 **FlipperZero**](#flipperzero)
+- [🏘 **Villages**](#villages)
 
-#### 💽 **Firmware**
-- [🔍 ***Reverse Engineering Tools***](#reverse-engineering-tools)
-- [💻 ***Online Assemblers***](#online-assemblers)
-- [💪 ***ARM***](#arm)
-- [🔨 ***Pentesting Firmwares: Emulating and Analyzing***](#pentesting-firmwares-and-emulating-and-analyzing)
-- [🔬 ***Firmware Samples to Pentest***](#firmware-samples-to-pentest)
-- [🔒 ***Secureboot***](#secureboot)
-- [🔍 ***Binary Analysis***](#binary-analysis)
+---
 
-#### 🛠️ **Hardware**
-- [🔎 ***IoT Hardware Intro***](#iot-hardware-overview-and-hacking)
-- [🛠️ ***Required Hardware to Pentest IoT***](#hardware-gadgets-to-pentest)
-- [🔌 ***Hardware Interfaces***](#attacking-hardware-interfaces)
-  - [🔌 ***SPI***](#spi)
-  - [🔌 ***UART***](#uart)
-  - [🔌 ***JTAG***](#jtag)
-  - [🔌 ***TPM***](#tpm)
-- [🛠️ ***Side Channel Attacks & Glitching Attacks***](#sidechannel-attacks)
+### 📚 Learning & Training
 
-#### 💾 Storage Medium
-- [📀 ***EMMC*** ](#emmc-protocol-and-techniques)
+- [🎓 IoT & Hardware Security Trainings](#iot-and-hardware-security-trainings)
+- [📚 Books for IoT Penetration Testing](#books-for-iot-penetration-testing)
+- [🖋️ Blogs for IoT Pentest](#blogs-for-iot-pentest)
+- [📋 Awesome Cheatsheets](#awesome-cheatsheets)
+- [📖 Awesome IoT Pentesting Guides](#awesome-iot-pentesting-guides)
+- [📺 YouTube Channels for IoT Pentesting](#youtube-channels-for-iot-pentesting)
 
-#### 💳 Payment Security
-- [💵 ***ATM Hacking***](#ATM-Hacking)
+---
 
+### 🧪 Technical Research, Labs & CTFs
 
-  
+- [🔍 Technical Research and Hacking](#technical-research-and-hacking)
+- [💻 Proof of Concepts: Known Device Vulnerabilities](#proof-of-concepts-known-device-vulnerabilities)
+- [🚩 CTF: Vulnerable IoT and Hardware Applications](#vulnerable-iot-and-hardware-applications)
+- [🔬 IoT Labs](#vulnerable-iot-and-hardware-applications)
+- [🏢 IoT Lab Setup Guide for Corporate/Individual](https://github.com/IoT-PTv/IoT-Lab-Setup)
+
+---
+
+### 📖 Books, Blogs, Cheatsheets
+
+- [📚 Books for IoT Penetration Testing](#books-for-iot-penetration-testing)
+- [🖋️ Blogs for IoT Pentest](#blogs-for-iot-pentest)
+- [📋 Awesome Cheatsheets](#awesome-cheatsheets)
+- [📘 IoT Vulnerabilities Checking Guides](#iot-vulnerabilities-checking-guides)
+- [📖 Awesome IoT Pentesting Guides](#awesome-iot-pentesting-guides)
+
+---
+
+### 🔍 Search Engines & Device Discovery
+
+- [🔍 Search Engines for Exposed IoT Devices Worldwide](#search-engines-for-exposed-iot-devices-worldwide)
+
+---
+
+### ⚒️ Exploitation Tools & Pentesting OS
+
+- [⚒️ Exploitation Tools](#exploitation-tools)
+- [🖥️ IoT Pentesting OSes](#iot-pentesting-oses)
+- [🔧 FlipperZero](#flipperzero)
+
 ********************************************************************************************************************************
 ### Technical Research and Hacking
 
