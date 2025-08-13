@@ -1,6 +1,6 @@
 # 🙌 Contributors
 
-We are deeply grateful to everyone who has helped shape this project. From code and docs to ideas and feedback — your contributions are what make this repository thrive. ❤️
+We are deeply grateful to everyone who has helped shape this project. From code and docs to ideas and feedback - your contributions are what make this repository thrive. ❤️
 
 ---
 
