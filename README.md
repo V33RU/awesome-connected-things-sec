@@ -224,6 +224,7 @@
 ********************************************************************************************************************************
 ### IoT and Hardware Security Trainings
 - [opensecuritytraining 2](https://p.ost2.fyi/courses)
+- [LabEx Interactive Labs](https://labex.io/) - Interactive hands-on labs for Linux system administration, networking, Python programming, Docker containerization, and cloud technologies essential for IoT security professionals.
   
 ********************************************************************************************************************************
 ### Books for IoT Penetration Testing
