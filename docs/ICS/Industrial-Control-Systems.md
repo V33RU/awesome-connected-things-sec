@@ -1,4 +1,4 @@
-# Industrial Control Systems (ICS) Security — Complete Guide
+# Industrial Control Systems (ICS) Security - Complete Guide
 
 Industrial Control Systems (ICS) are the backbone of critical infrastructure: power, water, oil & gas, manufacturing, and more. This file covers the full ICS security landscape - basics, threats, exploits, major incidents, key vulnerabilities, standards, and the best resources.
 
@@ -21,7 +21,7 @@ Industrial Control Systems (ICS) are the backbone of critical infrastructure: po
 
 ## Overview
 
-Industrial Control Systems—like SCADA, DCS, and PLCs—control everything from electricity generation to water treatment to factory automation. ICS environments:
+Industrial Control Systems like SCADA, DCS, and PLCs—control everything from electricity generation to water treatment to factory automation. ICS environments:
 - Run on legacy tech with safety & uptime as priorities.
 - Are rapidly connecting to IT and cloud, exposing new risks.
 > **A single breach may mean physical destruction, blackouts, or threats to human life.**  
@@ -158,5 +158,5 @@ Learn more: [ICS Overview by CISA](https://www.cisa.gov/topics/industrial-contro
 
 ---
 
-> _This guide integrates case studies, threat intelligence, high-impact malware, critical vulnerabilities, and best practices—your single reference for research, defense, or investigation in ICS environments._
+> _This guide integrates case studies, threat intelligence, high-impact malware, critical vulnerabilities, and best practices, your single reference for research, defense, or investigation in ICS environments._
 
