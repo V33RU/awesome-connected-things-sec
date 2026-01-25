@@ -330,6 +330,8 @@
 - [Keys in Flash - Glitching AES Keys from Arduino](https://srfilipek.medium.com/keys-in-a-flash-3e984d0de54b)
 - [Implementing Practical Electrical Glitching Attacks](https://blackhat.com/docs/eu-15/materials/eu-15-Giller-Implementing-Electrical-Glitching-Attacks.pdf)
 - [How to Voltage Fault Injection](https://www.synacktiv.com/publications/how-to-voltage-fault-injection)
+- [Glitcher Part 1 - Reproducible Voltage Glitching on STM32 Microcontrollers](https://sec-consult.com/blog/detail/secglitcher-part-1-reproducible-voltage-glitching-on-stm32-microcontrollers/)
+- [STM32L05 Voltage Glitching](https://blog.syss.com/posts/voltage-glitching-the-stm32l05-microcontroller/)
 
 #### Power Analysis
 
@@ -337,9 +339,6 @@
 - [ChipWhisperer Wiki](http://wiki.newae.com/Main_Page)
 - [Rowhammer Bit Flips to Steal Crypto Keys](https://arstechnica.com/information-technology/2019/06/researchers-use-rowhammer-bitflips-to-steal-2048-bit-crypto-key/)
 
-### Glitcher Part 1 - Reproducible Voltage Glitching on STM32 Microcontrollers](https://sec-consult.com/blog/detail/secglitcher-part-1-reproducible-voltage-glitching-on-stm32-microcontrollers/)
-- [STM32L05 Voltage Glitching](https://blog.syss.com/posts/voltage-glitching-the-stm32l05-microcontroller/)
-**Version 3.0** - Enhanced with 400+ additional resources from recent cybersecurity research (2019-2025)
 #### Other Microcontrollers
 
 - [Dumping the Amlogic A113X Bootrom](https://haxx.in/posts/dumping-the-amlogic-a113x-bootrom/)
