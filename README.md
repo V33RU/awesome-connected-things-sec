@@ -2,41 +2,55 @@
 <p align="center">A curated repository of IoT, Embedded, Industrial & Automotive, Core Tech security knowledge.</p>
 
 <p align="center">
-  <img src="/docs/images/banner.png" />
+  <img src="/docs/images/banner.png"/>
 </p>
 
 <p align="center">
-  <a href="https://awesome.re">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge">
-  </a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
+  <img src="https://img.shields.io/github/stars/V33RU/awesome-connected-things-sec?style=flat-square&logo=github&label=Stars&color=gold"/>
+  <img src="https://img.shields.io/github/forks/V33RU/awesome-connected-things-sec?style=flat-square&logo=git&label=Forks&color=blue"/>
+  <img src="https://img.shields.io/github/license/V33RU/awesome-connected-things-sec?style=flat-square&label=License&color=green"/>
+  <img src="https://img.shields.io/github/last-commit/V33RU/awesome-connected-things-sec?style=flat-square&label=Updated&color=red"/>
+  <img src="https://img.shields.io/badge/Resources-900%2B-blueviolet?style=flat-square"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/V33RU/awesome-connected-things-sec/stargazers">
-    <img src="https://img.shields.io/github/stars/V33RU/awesome-connected-things-sec.svg" />
-  </a>
-  <a href="https://github.com/V33RU/awesome-connected-things-sec/network">
-    <img src="https://img.shields.io/github/forks/V33RU/awesome-connected-things-sec.svg" />
-  </a>
-  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/V33RU/awesome-connected-things-sec.svg"/>
-  </a>
-    <img src="https://img.shields.io/github/last-commit/V33RU/awesome-connected-things-sec?style=flat-square" alt="Last Updated">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Firmware+%E2%80%A2+Wireless+%E2%80%A2+Hardware+%E2%80%A2+Protocols;UART+%E2%86%92+JTAG+%E2%86%92+SWD+%E2%86%92+Firmware+%E2%86%92+Root;Hack+The+Planet%2C+One+Device+At+A+Time" alt="Typing SVG" />
 </p>
 
+<br/>
+
 <p align="center">
-  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/ICS/Industrial-Control-Systems.md">
-    <img src="https://img.shields.io/badge/ICS%20Security-%F0%9F%94%8D-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/Automotive/automotive-security.md">
-    <img src="https://img.shields.io/badge/Automotive%20Security-%F0%9F%9A%97-green?style=for-the-badge">
-  </a>
-    <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/awesome-collection.md">
-    <img src="https://img.shields.io/badge/Awesome-List%F0%9F%A4%9D-purple?style=for-the-badge">
-  </a>
-  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contribute-%F0%9F%A4%9D-purple?style=for-the-badge">
-  </a>
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/ICS/Industrial-Control-Systems.md"><img src="https://img.shields.io/badge/🏭_ICS-SCADA_&_OT-ff6b6b?style=for-the-badge"/></a>&nbsp;
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/Automotive/automotive-security.md"><img src="https://img.shields.io/badge/🚗_AUTO-CAN_&_ECU-4ecdc4?style=for-the-badge"/></a>&nbsp;
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/awesome-collection.md"><img src="https://img.shields.io/badge/📚_AWESOME-COLLECTION-a855f7?style=for-the-badge"/></a>&nbsp;
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/badge/🤝_CONTRIBUTE-JOIN_US-f59e0b?style=for-the-badge"/></a>
+</p>
+
+<br/>
+
+<br/>
+
+<p align="center">
+  <a href="#hardware-attacks"><img src="https://img.shields.io/badge/⚡_Hardware-Hacking-dc2626?style=flat-square"/></a>&nbsp;
+  <a href="#bluetooth--ble"><img src="https://img.shields.io/badge/📶_Bluetooth-BLE-2563eb?style=flat-square"/></a>&nbsp;
+  <a href="#firmware-security"><img src="https://img.shields.io/badge/💾_Firmware-Analysis-16a34a?style=flat-square"/></a>&nbsp;
+  <a href="#wireless-protocols"><img src="https://img.shields.io/badge/📡_Wireless-Protocols-9333ea?style=flat-square"/></a>&nbsp;
+  <a href="#tools"><img src="https://img.shields.io/badge/🛠️_Tools-Arsenal-ea580c?style=flat-square"/></a>&nbsp;
+  <a href="#labs-and-ctfs"><img src="https://img.shields.io/badge/🎮_Labs-CTFs-0891b2?style=flat-square"/></a>
+</p>
+
+<br/>
+
+
+<br/>
+
+<p align="center">
+  <a href="https://t.me/iotsrg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
+  <a href="https://discord.gg/EH9dxT9"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;
+  <a href="https://www.reddit.com/r/iotsrg/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>&nbsp;
+  <a href="https://twitter.com/iotsrg1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/company/iotsrg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
