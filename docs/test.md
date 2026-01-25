@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=🔐%20Connected%20Things%20Sec&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Ultimate%20IoT%20%26%20Hardware%20Hacking%20Arsenal&descSize=18&descAlignY=55&descAlign=50"/>
+  <img src="/docs/images/banner.png"/>
 </p>
 
 <p align="center">
