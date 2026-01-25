@@ -26,23 +26,6 @@
 
 <br/>
 
-<div align="center">
-  
-```
-╔════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                    ║
-║    ⚡ HARDWARE      📡 WIRELESS      💾 FIRMWARE      🌐 NETWORK      ☁️  CLOUD     ║
-║                                                                                    ║
-║    UART • JTAG     BLE • ZigBee     Extraction      MQTT • CoAP      AWS IoT       ║
-║    SWD • SPI       LoRa • WiFi      Emulation       HTTP/REST        Firebase      ║
-║    I2C • eMMC      NFC • RFID       Reversing       WebSocket        Azure IoT     ║ 
-║    Glitching       SDR • DECT       Fuzzing         Custom           Cloud APIs    ║
-║                                                                                    ║
-╚════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 <br/>
 
 <p align="center">
