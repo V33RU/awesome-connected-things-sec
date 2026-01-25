@@ -185,9 +185,6 @@
 - [License](#license-1)
 ---
 
-
----
-
 ## Hardware Attacks
 
 ### Fundamentals
