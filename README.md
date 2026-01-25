@@ -29,8 +29,6 @@
 
 <br/>
 
-<br/>
-
 <p align="center">
   <a href="#hardware-attacks"><img src="https://img.shields.io/badge/⚡_Hardware-Hacking-dc2626?style=flat-square"/></a>&nbsp;
   <a href="#bluetooth--ble"><img src="https://img.shields.io/badge/📶_Bluetooth-BLE-2563eb?style=flat-square"/></a>&nbsp;
@@ -39,9 +37,6 @@
   <a href="#tools"><img src="https://img.shields.io/badge/🛠️_Tools-Arsenal-ea580c?style=flat-square"/></a>&nbsp;
   <a href="#labs-and-ctfs"><img src="https://img.shields.io/badge/🎮_Labs-CTFs-0891b2?style=flat-square"/></a>
 </p>
-
-<br/>
-
 
 <br/>
 
