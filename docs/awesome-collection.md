@@ -105,4 +105,8 @@
 ---
 
 ## 🦦 Awesome Flipper Zero Lists
-- [Awesome FlipperZero](https://github.com/djsime1/awesome-flipperzero)  
+- [Awesome FlipperZero](https://github.com/djsime1/awesome-flipperzero)
+
+---
+## Cellular-5G-Security
+- [Cellular-Security-Papers Public](https://github.com/onehouwong/Cellular-Security-Papers)
