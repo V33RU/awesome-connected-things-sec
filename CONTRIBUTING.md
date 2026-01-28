@@ -10,7 +10,7 @@ We are deeply grateful to everyone who has helped shape this curated resource li
 2. Clone it to your local environment.
 3. Create a branch with a descriptive name  
    Examples: `add/new-bluetooth-resource`, `fix/broken-link`, `update/firmware-section`
-4. Make your changes — add resources, improve descriptions, fix formatting, or remove outdated links.
+4. Make your changes add resources, improve descriptions, fix formatting, or remove outdated links.
 5. Write clear commit messages  
    Examples: `fix: update dead link in zigbee section`, `docs: add BLE reversing resource`
 6. Push your changes and submit a Pull Request.
@@ -24,7 +24,7 @@ We are deeply grateful to everyone who has helped shape this curated resource li
 - You may be asked to make small changes (formatting, tags, duplicates, link quality).
 - Once approved, it will be merged into the main branch.
 
-Please be respectful, professional, and collaborative — we follow a strict [Code of Conduct](https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/link-to-code-of-conduct.md).
+Please be respectful, professional, and collaborative we follow a strict [Code of Conduct](https://github.com/V33RU/awesome-connected-things-sec/blob/master/docs/link-to-code-of-conduct.md).
 
 ---
 
@@ -60,6 +60,6 @@ Want to be listed here? Contribute by adding or improving resources.
 
 ## Acknowledgements
 
-We sincerely thank every contributor who has helped improve this resource list — whether you added links, fixed broken references, refined descriptions, or suggested better organization.
+We sincerely thank every contributor who has helped improve this resource list whether you added links, fixed broken references, refined descriptions, or suggested better organization.
 
 Together, we are building a stronger and more secure connected world.
