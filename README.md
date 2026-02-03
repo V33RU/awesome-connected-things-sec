@@ -1137,20 +1137,20 @@
 
 - [Hak5 Field Kits](https://hakshop.com/)
 
-### Software Tools
 
+#### Exploitation Frameworks
+
+- [BlueSploit](https://github.com/V33RU/bluesploit)
+- [IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz)
+- [PENIOT](https://github.com/yakuza8/peniot)
+- [ISF - Industrial Security Framework](https://github.com/w3h/isf)
+- [HAL - Hardware Analyzer](https://github.com/emsec/hal)
+- [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET
 - [Expliot Framework](https://gitlab.com/expliot_framework/expliot)
 - [RouterSploit](https://github.com/threat9/routersploit)
 - [HomePwn](https://github.com/ElevenPaths/HomePWN)
 - [Firmware Analysis Toolkit (FAT)](https://github.com/attify/firmware-analysis-toolkit)
 - [Shambles: The Next-Generation IoT Reverse Engineering Tool](https://boschko.ca/shambles/)
-#### Exploitation Frameworks
-
-- [IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz)
-- [PENIOT](https://github.com/yakuza8/peniot)
-- [ISF - Industrial Security Framework](https://github.com/w3h/isf)
-- [HAL - Hardware Analyzer](https://github.com/emsec/hal)
-- [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
 
 #### Firmware Analysis
 
