@@ -1126,16 +1126,20 @@
 
 - [FaceDancer21](https://int3.cc/products/facedancer21)
 - [RfCat](https://int3.cc/products/rfcat)
+- [NullSec Ducky Payloads](https://github.com/bad-antics/nullsec-ducky-payloads) - Rubber Ducky BadUSB payloads for WiFi credential extraction, reverse shells, and automated recon on Windows, macOS & Linux.
 
 #### Glitching
 
 
 #### Flipper Zero
 
+- [NullSec Flipper Suite](https://github.com/bad-antics/nullsec-flipper-suite) - Comprehensive Flipper Zero payload collection for RF analysis, RFID/NFC cloning, BadUSB attacks, infrared, and wireless pentesting.
+- [PineFlip](https://github.com/bad-antics/pineflip) - Professional Flipper Zero companion app for Linux with GTK4/libadwaita UI, screen mirroring, file manager, and firmware management.
 
 #### Hak5
 
 - [Hak5 Field Kits](https://hakshop.com/)
+- [NullSec Pineapple Suite](https://github.com/bad-antics/hak5-pineapple) - 60+ WiFi Pineapple payloads for wireless pentesting including deauth, evil twin, handshake capture, PMKID extraction, and network reconnaissance.
 
 
 #### Exploitation Frameworks
