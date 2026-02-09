@@ -1137,7 +1137,7 @@
 #### Hak5
 
 - [Hak5 Field Kits](https://hakshop.com/)
-- [NullSec Pineapple Suite](https://github.com/bad-antics/hak5-pineapple) - 60+ WiFi Pineapple payloads for wireless pentesting including deauth, evil twin, handshake capture, PMKID extraction, and network reconnaissance.
+- [NullSec Pineapple Suite](https://github.com/bad-antics/nullsec-pineapple-suite) - 60+ WiFi Pineapple payloads for wireless pentesting including deauth, evil twin, handshake capture, PMKID extraction, and network reconnaissance.
 
 
 #### Exploitation Frameworks
