@@ -1128,8 +1128,6 @@
 - [RfCat](https://int3.cc/products/rfcat)
 - [NullSec Ducky Payloads](https://github.com/bad-antics/nullsec-ducky-payloads) - Rubber Ducky BadUSB payloads for WiFi credential extraction, reverse shells, and automated recon on Windows, macOS & Linux.
 
-#### Glitching
-
 
 #### Flipper Zero
 
@@ -1149,7 +1147,7 @@
 - [PENIOT](https://github.com/yakuza8/peniot)
 - [ISF - Industrial Security Framework](https://github.com/w3h/isf)
 - [HAL - Hardware Analyzer](https://github.com/emsec/hal)
-- [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET
+- [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
 - [Expliot Framework](https://gitlab.com/expliot_framework/expliot)
 - [RouterSploit](https://github.com/threat9/routersploit)
 - [HomePwn](https://github.com/ElevenPaths/HomePWN)
