@@ -76,6 +76,7 @@
 ---
 
 ### 🛠️ Hardware Hacking & Analysis
+- [Embedded Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 - [Awesome Hardware Hacking](https://github.com/darapti/awesome-hardware-hacking)  
 - [Awesome Hardware Security](https://github.com/paulveillard/awesome-hardware-security)  
 
