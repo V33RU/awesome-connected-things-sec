@@ -144,6 +144,7 @@
     - [Tools - Software](#tools-software-2)
     - [Tools - Hardware](#tools-hardware-2)
     - [Research and Tutorials](#research-and-tutorials)
+  - [mTLS](#mTLS)
   - [IoT Protocols Overview](#iot-protocols-overview)
 - [Cloud and Backend Security](#cloud-and-backend-security)
   - [AWS IoT Security](#aws-iot-security)
@@ -953,6 +954,56 @@
 - [SpectralOps - Top IoT Protocol Security Issues](https://spectralops.io/blog/top-5-most-commonly-used-iot-protocols-and-their-security-issues/)
 - [IoT Pentest Lab Setup Guide (2025)](https://www.webasha.com/blog/how-to-set-up-a-penetration-testing-lab-in-2025-complete-guide-with-tools-os-network-topology-and-real-world-practice-scenarios)
 - [CoAP Exposure Study (2024)](https://raid2024.github.io/papers/raid2024-9.pdf)
+
+###  mTLS
+
+#### ️ Tools
+
+| Tool | Use | Link |
+|---|---|---|
+| mtls-intercept | Reverse proxy that dynamically signs client certs to MITM full mTLS sessions | [github.com/fungaren/mtls-intercept](https://github.com/fungaren/mtls-intercept) |
+| mitmproxy | Configure client_certs with extracted IoT device cert to impersonate device in mTLS handshake | [mitmproxy.org](https://mitmproxy.org) |
+| SSLsplit | Transparent mTLS proxy - forward extracted device cert to complete mutual handshake with cloud | [github.com/droe/sslsplit](https://github.com/droe/sslsplit) |
+| eCapture (eBPF) | Hook OpenSSL/BoringSSL on Linux IoT gateways pre-encrypt - decrypts mTLS + TLS 1.3 + PFS | [ecapture.cc](https://ecapture.cc) |
+| Wireshark + SSLKEYLOGFILE | Decrypt captured mTLS sessions from IoT gateways using NSS pre-master secret logs | [wiki.wireshark.org/TLS](https://wiki.wireshark.org/TLS) |
+| Frida | Runtime hook SSLContext, TrustManager, KeyManager in Android IoT companion apps | [frida.re](https://frida.re) |
+| Objection | android sslpinning disable - strips mTLS pinning in companion apps | [github.com/sensepost/objection](https://github.com/sensepost/objection) |
+| apk-mitm | Statically patches IoT companion APK to disable mTLS cert pinning | [github.com/shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) |
+| MagiskTrustUserCerts | Moves custom CA to system store on rooted Android POS/kiosk to complete mTLS MITM | [github.com/NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) |
+| frida-multiple-unpinning | Universal Frida script targeting 20+ mTLS/pinning patterns in hardened IoT apps | [github.com/httptoolkit/frida-android-unpinning](https://github.com/httptoolkit/frida-android-unpinning) |
+| NEU-SNS/IoTLS | IMC'21 research repo - SSLKEYLOGFILE files to decrypt MITM'd mTLS connections across 32 devices | [github.com/NEU-SNS/IoTLS](https://github.com/NEU-SNS/IoTLS) |
+| mitmrouter | Linux-based IoT traffic interception router - intercepts device TLS at network level | [github.com/nmatt0/mitmrouter](https://github.com/nmatt0/mitmrouter) |
+
+#### Blogs & Articles
+
+- [mTLS: When Certificate Authentication is Done Wrong](https://github.blog/security/vulnerability-research/mtls-when-certificate-authentication-is-done-wrong/)
+- [mTLS Authentication in IoT: Enhancing Security for Connected Devices](https://www.regamiota.com/post/mtls-authentication-in-iot-enhancing-security-for-connected-devices)
+- [Hands On IoT MitM Part 1 – AWS IoT MQTT + mTLS Interception](https://samrambles.com/projects/hunter-hacking/hands-on-iot-mitm-part-1/)
+- [OWASP MASTG-TECH-0012: Bypassing Certificate Pinning in Android IoT Companion Apps](https://mas.owasp.org/MASTG/techniques/android/MASTG-TECH-0012/)
+- [Theory to Practice: mTLS in Action Part 1](https://klika-tech.com/blog/2025/08/28/theory-to-practice-mtls-in-action-part-1)
+- [Firmware Analysis for IoT Penetration Testing](https://blog.attify.com/firmware-analysis-iot-penetration-testing/)
+- [Configuring mTLS on Mosquitto MQTT Broker](https://mosquitto.org/man/mosquitto-tls-7.html)
+- [AWS IoT Docs: X.509 Client Certificates and Fleet Provisioning](https://docs.aws.amazon.com/iot/latest/developerguide/x509-client-certs.html)
+- [Azure IoT Hub: mTLS X.509 CA Authentication Concept](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-x509ca-concept)
+
+#### Research Papers
+
+- [Evaluation of TLS and mTLS in Internet of Things Systems - MIUN DiVA, 2024](https://miun.diva-portal.org/smash/get/diva2:1937634/FULLTEXT01.pdf)
+- [Atlas: Enabling Cross-Vendor mTLS Authentication for IoT - arXiv 2025](https://arxiv.org/html/2602.09263v1)
+- [TLS in the IoT Ecosystem - IEEE IMC 2021, NEU-SNS](https://github.com/NEU-SNS/IoTLS)
+- [Lightweight mTLS Authentication for Industrial IoT - PMC/NIH 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10222187/)
+- [Quantum-Enhanced mTLS for IoT Battlefield Networks - IJPSAT](https://ijpsat.org/index.php/ijpsat/article/download/6969/4447)
+- [AI vs. IoT Security: Fingerprinting and Defenses Against TLS Attacks - IEEE Xplore 2025](https://ieeexplore.ieee.org/document/11168239/)
+
+#### YouTube
+
+- [Intercepting IoT Device Traffic with ARP Poisoning + mitmproxy TLS Intercept](https://www.youtube.com/watch?v=f7XFcZ2_9ww)
+- [Using Linux to Intercept IoT Device Traffic with mitmrouter](https://www.youtube.com/watch?v=k134j9E5oZE)
+- [Mutual TLS - The Backend Engineering Show Deep Dive](https://www.youtube.com/watch?v=KwpV-ICpkc4)
+- [Intercepting SSL/TLS - Fiddler and MITMProxy Decrypt Walkthrough](https://www.youtube.com/watch?v=gJiVbhyBixM)
+- [Decrypting Kubernetes mTLS Traffic - eCapture, Custom CA, eBPF Methods](https://www.youtube.com/watch?v=4gNuZFkpz8U)
+- [Mastering mTLS: Stop MITM Attacks and Boost API/IoT Security](https://www.youtube.com/watch?v=F-H5ftwKarc)
+- [Introduction to IoT Penetration Testing Webinar - CyberWarFare Labs](https://www.youtube.com/watch?v=qMdg-Rj53jA)
 
 ### IoT Protocols Overview
 
