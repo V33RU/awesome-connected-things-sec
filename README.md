@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/v33ru-awesome-connected-things-sec-badge.png)](https://mseep.ai/app/v33ru-awesome-connected-things-sec)
+
 <h1 align="center">🔐 Awesome Connected Things Security Resources</h1>
 <p align="center">A curated repository of IoT, Embedded, Industrial & Automotive, Core Tech security knowledge.</p>
 
