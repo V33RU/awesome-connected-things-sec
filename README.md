@@ -23,6 +23,7 @@
 <p align="center">
   <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/main/docs/ICS/Industrial-Control-Systems.md"><img src="https://img.shields.io/badge/🏭_ICS-SCADA_&_OT-ff6b6b?style=for-the-badge"/></a>&nbsp;
   <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/main/docs/Automotive/automotive-security.md"><img src="https://img.shields.io/badge/🚗_AUTO-CAN_&_ECU-4ecdc4?style=for-the-badge"/></a>&nbsp;
+  <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/main/docs/Robotics/robotics-security.md"><img src="https://img.shields.io/badge/🤖_ROBOTICS-ROS_&_DDS-8b5cf6?style=for-the-badge"/></a>&nbsp;
   <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/main/docs/awesome-collection.md"><img src="https://img.shields.io/badge/📚_AWESOME-COLLECTION-a855f7?style=for-the-badge"/></a>&nbsp;
   <a href="https://github.com/V33RU/awesome-connected-things-sec/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/🤝_CONTRIBUTE-JOIN_US-f59e0b?style=for-the-badge"/></a>
 </p>
