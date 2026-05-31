@@ -1125,6 +1125,10 @@
 - [OPC UA Deep Dive Series - Parts 1-5](https://claroty.com/team82/research/opc-ua-deep-dive-history-of-the-opc-ua-protocol)
 - [Inside a New OT/IoT Cyberweapon: IOCONTROL](https://claroty.com/team82/research/inside-a-new-ot-iot-cyber-weapon-iocontrol)
 - [Attention, High Voltage: Exploring the Attack Surface of the Rockwell Automation PowerMonitor 1000](https://claroty.com/team82/research/attention-high-voltage-exploring-the-attack-surface-of-the-rockwell-automation-powermonitor-1000)
+- [Modbus RTU for Secure DC Monitoring: Architecture, Applications and Secure by Design (LRI, 2026)](https://aem.lri.com.br/en-us/whitepapers/wp01-modbus-secure-design) - 4500-word technical whitepaper covering Modbus RTU architecture for DC monitoring, isolation requirements, Ed25519 firmware signing, anti-rollback persistence and forensic telemetry. Includes practical SCADA integration patterns. (Disclosure: published by the AEM-60DC8 hardware manufacturer; the technical content stands independently.)
+- [IEC 62443-4-2 SL2 in Practice: An Integrator Checklist (LRI, 2026)](https://aem.lri.com.br/en-us/whitepapers/wp03-iec-62443-sl2-checklist) - Practical checklist for applying IEC 62443-4-2 Security Level 2 to industrial device integrations, with concrete acceptance criteria for SCADA integrators. (Disclosure: same as above.)
+- [Secure architecture for 48V telecom battery banks (LRI, 2026)](https://aem.lri.com.br/en-us/whitepapers/wp02-banco-baterias-telecom) - Project, monitoring and cybersecurity guide for 48V battery banks in distributed telecom sites. Covers ANATEL/NMS integration patterns and Modbus/SNMP comparison. (Disclosure: same as above.)
+
 ### Automotive Security
 
 - [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)
