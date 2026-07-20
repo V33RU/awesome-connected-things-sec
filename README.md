@@ -908,6 +908,7 @@
 
 - [Are Smart Homes Vulnerable to Hacking?](https://blog.avast.com/mqtt-vulnerabilities-hacking-smart-homes)
 - [Penetration Testing Sesame Smart Door Lock](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1750933)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 - [Servisnet Tessa - MQTT Credentials Dump (Metasploit)](https://www.exploit-db.com/exploits/50713)
 - [Eclipse Mosquitto Unquoted Service Path](https://www.exploit-db.com/exploits/49673)
 
