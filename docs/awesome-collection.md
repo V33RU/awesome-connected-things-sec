@@ -18,6 +18,9 @@
 - [Standards & Compliance](#-standards--compliance)
 - [RFID & NFC](#-rfid--nfc)
 - [Awesome Flipper Zero Lists](#-awesome-flipper-zero-lists)
+- [Others](#Others)
+
+
 
 ---
 
@@ -105,9 +108,12 @@
 
 ---
 
-## 🦦 Awesome Flipper Zero Lists
+### 🦦 Awesome Flipper Zero Lists
 - [Awesome FlipperZero](https://github.com/djsime1/awesome-flipperzero)
 
 ---
-## Cellular-5G-Security
+### Cellular-5G-Security
 - [Cellular-Security-Papers Public](https://github.com/onehouwong/Cellular-Security-Papers)
+
+### Others
+-  [Awesome Vulnerable Applications](https://github.com/vavkamil/awesome-vulnerable-apps)
