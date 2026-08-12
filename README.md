@@ -375,6 +375,7 @@
 - [Replay Attacks with Raspberry Pi and rpitx](https://www.rtl-sdr.com/tutorial-replay-attacks-with-an-rtl-sdr-raspberry-pi-and-rpitx/)
 - [Reverse Engineering a Car Key Fob Signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 - [GRCON 2021 - Capture the Signal](https://blog.tclaverie.eu/posts/grcon-2021---capture-the-signal/)
+
 ### Bluetooth / BLE
 
 #### Fundamentals
@@ -387,6 +388,7 @@
 - [Bluetooth LE Security Study Guide](https://www.bluetooth.com/bluetooth-resources/le-security-study-guide/)
 - [Reverse Engineering BLE Devices](https://reverse-engineering-ble-devices.readthedocs.io/en/latest/)
 - [My Journey Towards Reverse Engineering a Smart Band - Bluetooth-LE RE](https://medium.com/@arunmag/my-journey-towards-reverse-engineering-a-smart-band-bluetooth-le-re-d1dea00e4de2)
+
 #### Exploitation Techniques
 
 - [Intel Edison as Bluetooth LE Exploit Box](https://medium.com/@arunmag/intel-edison-as-bluetooth-le-exploit-box-a63e4cad6580)
@@ -401,6 +403,7 @@
 - [Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero](https://www.whid.ninja/blog/denial-of-pleasure-attacking-unusual-ble-targets-with-a-flipper-zero)
 - [Grand Theft Auto: A peek of BLE relay attack](https://rollingpwn.github.io/BLE-Relay-Aattck/)
 - [How I Hacked Smart Lights: CVE-2022-47758](https://pwning.tech/cve-2022-47758/)
+
 #### Vulnerability Research
 
 - [Finding Bugs in Bluetooth](https://bluetooth.lol/)
@@ -496,6 +499,7 @@
 - [Low Powered and High Risk: Attacks on LoRaWAN Devices](https://www.trendmicro.com/en_us/research/21/a/Low-Powered-but-High-Risk-Evaluating-Possible-Attacks-on-LoRaWAN-Devices.html)
 - [LAF - LoRaWAN Auditing Framework](https://github.com/IOActive/laf)
 - [ChirpOTLE - LoRaWAN Security Framework](https://github.com/seemoo-lab/chirpotle)
+
 #### Fundamentals
 
 - [LoRaWAN Security Survey - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S2542660520301359)
@@ -577,6 +581,7 @@
 - [RFID Discord Group](https://discord.gg/Z43TrcVyPr)
 - [SoK: Security of EMV Contactless Payment Systems](https://arxiv.org/pdf/2504.12812)
 - [NFC Relay Attack on Tesla Model Y](https://act-on.ioactive.com/acton/attachment/34793/f-6460b49e-1afe-41c3-8f73-17dc14916847/1/-/-/-/-/NFC-relay-TESlA_JRoriguez.pdf)
+
 ### DECT (Digital Enhanced Cordless Telecommunications)
 
 - [Real Time Interception of DECT Cordless Telephone](https://www.youtube.com/watch?v=MDF1eUvOte0)
@@ -610,6 +615,7 @@
 - [Reverse Engineering WiFi on RISC-V BL602](https://lupyuen.github.io/articles/wifi)
 - [Unveiling secrets of the ESP32: creating an open-source MAC Layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 - [Unveiling secrets of the ESP32: reverse engineering RX](https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/)
+
 ### USB
 
 - [ALL ABOUT USB-C: INTRODUCTION FOR HACKERS](https://hackaday.com/2022/12/06/usb-c-introduction-for-hackers/)
@@ -639,6 +645,7 @@
 - [IoT Security Verification Standard (ISVS)](https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS)
 - [Reversing 101](https://0xinfection.github.io/reversing/)
 - [Hands-on Firmware Extraction, Exploration, and Emulation](https://github.com/onekey-sec/BHEU23-firmware-workshop)
+
 ### Extraction
 
 - [Router Analysis Part 1: UART Discovery and SPI Flash Extraction](https://wrongbaud.github.io/posts/router-teardown/)
@@ -647,6 +654,7 @@
 - [BasicFUN Series: Hardware Analysis / SPI Flash Extraction](https://wrongbaud.github.io/posts/BasicFUN-flashing/)
 - [BasicFUN Series: Reverse Engineering Firmware / Reflashing SPI Flash](https://wrongbaud.github.io/posts/BasicFUN-rom-analysis/)
 - [Retrofitting encrypted firmware is a Bad Idea](https://haxx.in/posts/wtm-wtf/)
+
 ### Static Analysis Tools
 
 - [EMBA - Embedded Linux Firmware Analyzer](https://p4cx.medium.com/emba-b370ce503602)
@@ -660,6 +668,7 @@
 - [unblob - Extraction Framework](https://github.com/onekey-sec/unblob)
 - [Checksec.sh](https://github.com/slimm609/checksec.sh)
 - [Firmware Modification Kit](https://code.google.com/archive/p/firmware-mod-kit/)
+
 ### Dynamic Analysis and Emulation
 
 - [Firmadyne - Automated Firmware Emulation](https://github.com/firmadyne/firmadyne)
@@ -677,6 +686,7 @@
 - [Bochs - x86 Emulator](https://github.com/bochs-emu/Bochs)
 - [SAME70 Emulator](https://www.0x01team.com/sw_security/same70-emulator/)
 - [Emulate Until You Make it](https://www.hexacon.fr/conference/speakers/#draytek)
+
 #### Emulation Tutorials
 
 - [Firmware Emulation with QEMU](https://www.youtube.com/watch?v=G0NNBloGIvs)
@@ -695,6 +705,7 @@
 - [Challenges and Pitfalls while Emulating Six Current Icelandic Household Routers](https://skemman.is/bitstream/1946/50456/1/Challenges_and_Pitfalls_while_Emulating_Six_Current_Icelandic_Household_Routers.pdf)
 - [My Emulation Goes to the Moon... Until False Flag](https://retooling.io/blog/my-emulation-goes-to-the-moon-until-false-flag)
 - [How to Emulate Android Native Libraries Using Qiling](https://www.appknox.com/security/how-to-emulate-android-native-libraries-using-qiling)
+
 ### OTA Update Security
 
 #### Fundamentals
@@ -753,6 +764,7 @@
 - [Intro to Cutter](https://goggleheadedhacker.com/post/intro-to-cutter)
 - [pyghidra-mcp: Headless Ghidra MCP Server](https://clearbluejar.github.io/posts/pyghidra-mcp-headless-ghidra-mcp-server-for-project-wide-multi-binary-analysis/)
 - [Mindshare: Using Binary Ninja API to Detect Potential Use-after-free Vulnerabilities](https://www.zerodayinitiative.com/blog/2025/3/20/mindshare-using-binary-ninja-api-to-detect-potential-use-after-free-vulnerabilities)
+
 #### Reverse Engineering Tutorials
 
 - [Reverse Engineering and Patching with Ghidra](https://www.coalfire.com/the-coalfire-blog/reverse-engineering-and-patching-with-ghidra)
@@ -791,6 +803,7 @@
 - [ARM64 Reversing And Exploitation Series (8ksec) - Parts 1-10](https://8ksec.io/arm64-reversing-and-exploitation-part-1-arm-instruction-set-simple-heap-overflow/)
 - [AArch64 memory and paging](https://krinkinmu.github.io/2024/01/14/aarch64-virtual-memory.html)
 - [We are ARMed no more ROPpery Here](https://zeyadazima.com/exploit%20development/pointer_pac/)
+
 ### Binary Analysis
 
 - [Practical Binary Analysis](https://nostarch.com/binaryanalysis)
@@ -898,6 +911,7 @@
 - [IoT Security: RCE in MQTT Protocol](https://systemweakness.com/iot-security-rce-in-mqtt-protocol-929e533f12b4)
 - [IoXY - MQTT Intercepting Proxy](https://blog.nviso.eu/2020/07/06/introducing-ioxy-an-open-source-mqtt-intercepting-proxy/)
 - [MQTT-PWN](https://mqtt-pwn.readthedocs.io/en/latest/)
+
 #### Fundamentals
 
 - [Understanding the MQTT Protocol Packet Structure](http://www.steves-internet-guide.com/mqtt-protocol-messages-overview/)
@@ -945,6 +959,7 @@
 - [IETF Security Protocol Comparison](https://datatracker.ietf.org/doc/draft-ietf-iotops-security-protocol-comparison/03/)
 - [RFC 8613 - OSCORE](https://datatracker.ietf.org/doc/html/rfc8613)
 - [Radware - CoAP Protocol Overview](https://www.radware.com/security/ddos-knowledge-center/ddospedia/coap/)
+
 #### Specifications and Security
 
 - [EMQX on CoAP and IoT Security (2024)](https://www.emqx.com/en/blog/iot-protocols-mqtt-coap-lwm2m)
@@ -1027,6 +1042,7 @@
 - [IoT Architecture](https://www.c-sharpcorner.com/UploadFile/f88748/internet-of-things-part-2/)
 - [Attacking IoT Devices from Web Perspective](https://lug.uniroma2.it/eventi/linux-day-23/files/Linux%20Day%20-%20Attacking%20IoT%20Devices.pdf)
 - [Awesome Industrial Protocols](https://github.com/Orange-Cyberdefense/awesome-industrial-protocols)
+
 ## Cloud and Backend Security
 
 ### AWS IoT Security
@@ -1034,9 +1050,6 @@
 - [AWS Penetration Testing Policy](https://aws.amazon.com/security/penetration-testing/)
 - [AWS Pentesting Guide - HackerOne](https://www.hackerone.com/knowledge-center/penetration-testing-aws-practical-guide)
 - [A few notes on AWS Nitro Enclaves](https://blog.trailofbits.com/2024/02/16/a-few-notes-on-aws-nitro-enclaves-images-and-attestation/)
-- [Pacu - AWS Exploitation Framework](https://github.com/RhinoSecurityLabs/pacu)
-- [ScoutSuite - Multi-cloud Security Auditing](https://github.com/nccgroup/ScoutSuite)
-- [Prowler - Cloud Security Assessment](https://github.com/prowler-cloud/prowler)
 
 #### Fundamentals
 
@@ -1051,6 +1064,9 @@
 - [S3Scanner - Leaky Bucket Discovery](https://github.com/sa7mon/S3Scanner)
 - [Cloudfoxable Labs](https://github.com/BishopFox/cloudfoxable)
 - [AWS Security Pentesting Resources](https://github.com/redskycyber/Cloud-Security/blob/main/AWS-Security-Pentesting-Resources.md)
+- [Pacu - AWS Exploitation Framework](https://github.com/RhinoSecurityLabs/pacu)
+- [ScoutSuite - Multi-cloud Security Auditing](https://github.com/nccgroup/ScoutSuite)
+- [Prowler - Cloud Security Assessment](https://github.com/prowler-cloud/prowler)
 
 #### Vulnerabilities
 
@@ -1078,6 +1094,7 @@
 - [Introduction to Fuzzing Android Native Components](https://blog.convisoappsec.com/en/introduction-to-fuzzing-android-native-components/)
 - [Hacking Android Games](https://8ksec.io/hacking-android-games/)
 - [Intercepting HTTPS Communication in Flutter](https://sensepost.com/blog/2025/intercepting-https-communication-in-flutter-going-full-hardcore-mode-with-frida/)
+
 #### Android Kernel Exploitation
 
 - [Android Kernel Exploitation](https://cloudfuzz.github.io/android-kernel-exploitation/)
@@ -1107,6 +1124,7 @@
 - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 - [First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)](https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html)
 - [Exploring UNIX pipes for iOS kernel exploit primitives](https://www.corellium.com/blog/exploring-unix-pipes-for-ios-kernel-exploit-primitives)
+
 ## Industrial and Automotive
 
 ### ICS/SCADA
@@ -1120,6 +1138,7 @@
 - [OPC UA Deep Dive Series - Parts 1-5](https://claroty.com/team82/research/opc-ua-deep-dive-history-of-the-opc-ua-protocol)
 - [Inside a New OT/IoT Cyberweapon: IOCONTROL](https://claroty.com/team82/research/inside-a-new-ot-iot-cyber-weapon-iocontrol)
 - [Attention, High Voltage: Exploring the Attack Surface of the Rockwell Automation PowerMonitor 1000](https://claroty.com/team82/research/attention-high-voltage-exploring-the-attack-surface-of-the-rockwell-automation-powermonitor-1000)
+
 ### Automotive Security
 
 - [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)
@@ -1177,6 +1196,7 @@
 - [HackRF](https://greatscottgadgets.com/hackrf/)
 - [RTL-SDR](https://www.rtl-sdr.com/)
 - [An In-Depth Look at the ICE-V Wireless FPGA Development Board](https://tomverbeure.github.io/2022/12/27/The-ICE-V-Wireless-FPGA-Board.html)
+
 #### Multi-Purpose
 
 - [Logic Analyzer - Saleae](https://www.saleae.com/)
@@ -1208,6 +1228,8 @@
 - [NullSec Pineapple Suite](https://github.com/bad-antics/nullsec-pineapple-suite) - 60+ WiFi Pineapple payloads for wireless pentesting including deauth, evil twin, handshake capture, PMKID extraction, and network reconnaissance.
 
 
+### Software Tools
+
 #### Exploitation Frameworks
 
 - [BlueSploit](https://github.com/V33RU/bluesploit)
@@ -1226,6 +1248,8 @@
 
 - [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic)
 
+---
+
 ### Fuzzing Tools
 
 - [The art of Fuzzing: Introduction](https://web.archive.org/web/2024/https://bushido-sec.com/index.php/2023/06/19/the-art-of-fuzzing/)
@@ -1236,6 +1260,7 @@
 - [Boofuzz](https://github.com/jtpereyda/boofuzz)
 - [Syzkaller - Kernel Fuzzer](https://github.com/google/syzkaller)
 - [parking-game-fuzzer](https://github.com/addisoncrump/parking-game-fuzzer)
+
 #### Fundamentals
 
 - [OWASP Fuzzing Info](https://owasp.org/www-community/Fuzzing)
@@ -1270,6 +1295,7 @@
 - [Skywave Linux - SDR](https://skywavelinux.com/)
 - [Zephyr RTOS](https://www.zephyrproject.org/)
 - [Ubuntu LTS](https://www.ubuntu.com/)
+
 ### Search Engines
 
 - [Shodan](https://www.shodan.io/)
@@ -1294,6 +1320,7 @@
 - [STRIDE Threat Model Guide - Practical DevSecOps](https://www.practical-devsecops.com/what-is-stride-threat-model/)
 - [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
 - [STRIDE-based Threat Modeling for IoT Precision Agriculture](https://arxiv.org/pdf/2201.09493)
+
 #### STRIDE Framework
 
 - [What is STRIDE in Threat Modeling - Security Compass](https://www.securitycompass.com/blog/stride-in-threat-modeling/)
@@ -1342,6 +1369,7 @@
 
 - [OpenSecurityTraining2](https://p.ost2.fyi/courses)
 - [cryptopals](https://cryptopals.com)
+
 ### Cheatsheets
 
 - [Hardware Hacking Cheatsheet](https://github.com/arunmagesh/hw_hacking_cheatsheet)
@@ -1349,6 +1377,7 @@
 - [Pentest Hardware Handbook](https://github.com/unprovable/PentestHardware)
 - [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
 - [Cross Cache Attack CheetSheet](https://u1f383.github.io/linux/2025/01/03/cross-cache-attack-cheatsheet.html)
+
 ### Vulnerability Guides
 
 - [OWASP IoT Top 10 2018 Mapping](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/)
@@ -1356,6 +1385,7 @@
 - [CVE North Stars](https://cve-north-stars.github.io)
 - [IoT Vulnerabilities with CVE and PoC](https://github.com/z1r00/IOT_Vul)
 - [Linux Privilege Escalation](https://tbhaxor.com/linux-privilege-escalation/)
+
 ### Pentesting Guides
 
 - [Shodan Pentesting Guide](https://web.archive.org/web/2022/https://community.turgensec.com/shodan-pentesting-guide/)
@@ -1377,6 +1407,7 @@
 - [Aaron Christophel](https://www.youtube.com/c/12002230/videos)
 - [Valerio Di Giampietro](https://www.youtube.com/c/MakeMeHack)
 - [Gamozo Labs - Printer Hacking](https://www.youtube.com/watch?v=2LVtEoQA8Qo)
+
 ### Books
 
 #### Hardware Hacking
@@ -1393,6 +1424,7 @@
 - [Mastering Hardware Hacking (2025)](https://www.amazon.in/Hacking-Machine-Engineering-Hardware-Embedded/dp/B0F29WV5HF)
 - [Ultimate Hardware Hacking Gear Guide](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-)
 - [Microcontroller Exploits (2024)](https://nostarch.com/microcontroller-exploits)
+
 #### Firmware and Reverse Engineering
 
 - [The Firmware Handbook - Jack Ganssle (2004)](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
@@ -1400,6 +1432,7 @@
 - [Fuzzing Against the Machine (2023)](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976)
 - [Ghidra Software Reverse Engineering 2nd Edition (2025)](https://www.amazon.in/Ghidra-Software-Reverse-Engineering-Beginners-Second/dp/B0DJGQ91R5)
 - [The Definitive Handbook on Reverse Engineering Tools (2025)](https://www.amazon.in/Definitive-Handbook-Reverse-Engineering-Tools-ebook/dp/B0F29HLW5B)
+
 #### IoT Security
 
 - [Abusing the Internet of Things - Nitesh Dhanjani (2015)](https://www.amazon.in/Abusing-Internet-Things-Blackouts-Freakouts-ebook/dp/B013VQ7N36)
@@ -1447,6 +1480,7 @@
 - [BLE CTF](https://github.com/hackgnar/ble_ctf)
 - [Microcorruption](https://microcorruption.com/login)
 - [ARM-X CTF](https://github.com/therealsaumil/armx)
+
 #### Hardware
 
 - [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking)
@@ -1561,11 +1595,13 @@
 - [boschko.ca](https://boschko.ca/)
 - [0xtriboulet](https://steve-s.gitbook.io/0xtriboulet)
 - [Nozomi Networks](https://www.nozominetworks.com/blog/)
+
 ### Community Platforms
 
 - [IoTSecurity101 Telegram](https://t.me/iotsecurity1011)
 - [IoTSecurity101 Reddit](https://www.reddit.com/r/IoTSecurity101/)
 - [Hardware Hacking Telegram](https://t.me/hardwareHackingBrasil)
+
 ### Villages
 
 - [IoT Village](https://www.iotvillage.org/index.html)
