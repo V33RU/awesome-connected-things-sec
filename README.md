@@ -1700,11 +1700,9 @@
 
 ## MCP / AI Agent Skills
 
-Skills, tools, and agents built for LLM coding assistants (Claude Code, ChatGPT/Codex, etc.) to assist in embedded and wireless security research.
-
 ### Bluetooth Reverse Engineering
 
-- [bt-re-mad-skillz](https://github.com/darkmentorllc/bt-re-mad-skillz) - LLM skills for reverse engineering Bluetooth Controller firmware at the HCI layer and below. Supports Claude Code and ChatGPT/Codex. Includes `/bt-re-controller` (Ghidra-based BLE/BR-EDR controller firmware analysis with chip/spec/stack params) and `/bt-re-controller-merge-ghidra-files` (merges rename outputs from two different models into a single Ghidra project).
+- [bt-re-mad-skillz](https://github.com/darkmentorllc/bt-re-mad-skillz) - LLM skills for Bluetooth Controller firmware RE at the HCI layer, for Claude Code and ChatGPT/Codex.
 
 ---
 
