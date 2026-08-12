@@ -45,7 +45,7 @@
   <a href="https://t.me/iotsrg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
   <a href="https://discord.gg/EH9dxT9"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;
   <a href="https://twitter.com/v33riot"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
-  <a href="www.linkedin.com/in/veeraiot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/veeraiot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -145,7 +145,7 @@
     - [Tools - Software](#tools-software-2)
     - [Tools - Hardware](#tools-hardware-2)
     - [Research and Tutorials](#research-and-tutorials)
-  - [mTLS](#mTLS)
+  - [mTLS](#mtls)
   - [IoT Protocols Overview](#iot-protocols-overview)
 - [Cloud and Backend Security](#cloud-and-backend-security)
   - [AWS IoT Security](#aws-iot-security)
@@ -169,7 +169,6 @@
   - [Hardware Tools](#hardware-tools)
     - [Multi-Purpose](#multi-purpose)
     - [Debug Adapters](#debug-adapters)
-    - [RF/SDR](#rfsdr)
     - [USB](#usb-1)
     - [Glitching](#glitching)
     - [Flipper Zero](#flipper-zero)
@@ -209,10 +208,7 @@
   - [IoT Series](#iot-series)
 - [Labs and CTFs](#labs-and-ctfs)
   - [Vulnerable Applications](#vulnerable-applications)
-    - [IoT](#iot)
-    - [Router/Firmware](#routerfirmware)
     - [Hardware](#hardware)
-    - [Wireless](#wireless)
     - [Industrial](#industrial)
     - [VoIP](#voip)
   - [CTF Competitions](#ctf-competitions)
@@ -331,7 +327,7 @@
 #### Glitching Attacks
 
 - [NAND Glitching Attack on Wink Hub](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
-- [Voltage Glitching with Crowbars Tutorial](https://chipwhisperer.readthedocs.io/)
+- [Voltage Glitching with Crowbars Tutorial](https://chipwhisperer.readthedocs.io/en/latest/tutorials.html)
 - [Voltage Glitching Attack using iCEstick Glitcher](https://www.youtube.com/watch?v=FVUhVewFmxw)
 - [FPGA Glitching and Side Channel Attacks - Samy Kamkar](https://www.youtube.com/watch?v=oGndiX5tvEk)
 - [Hardware Power Glitch Attack - rhme2](https://www.youtube.com/watch?v=6Pf3pY3GxBM)
@@ -418,7 +414,6 @@
 - [Norec Attack: Stripping BLE encryption from Nordic's Library (CVE-2020-15509)](https://infosecwriteups.com/norec-attack-stripping-ble-encryption-from-nordics-library-cve-2020-15509-9798ab893b95)
 - [BlueDucky - HID Injection on Unpatched Android (CVE-2023-45866)](https://github.com/pentestfunctions/BlueDucky)
 - [Microsoft Bluetooth Driver Spoofing - CVE-2024-21306](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21306)
-- [GATTacker - BLE MITM Proxy](https://github.com/securing/gattacker)
 - [Bluetooth Auracast / LE Audio Security Analysis](https://www.bluetooth.com/learn-about-bluetooth/recent-enhancements/le-audio/)
 
 #### Conference Talks
@@ -977,9 +972,9 @@
 - [SpectralOps - Top IoT Protocol Security Issues](https://spectralops.io/blog/top-5-most-commonly-used-iot-protocols-and-their-security-issues/)
 - [CoAP Exposure Study (2024)](https://raid2024.github.io/papers/raid2024-9.pdf)
 
-###  mTLS
+### mTLS
 
-#### ️ Tools
+#### Tools
 
 | Tool | Use | Link |
 |---|---|---|
@@ -1012,7 +1007,6 @@
 
 - [Evaluation of TLS and mTLS in Internet of Things Systems - MIUN DiVA, 2024](https://miun.diva-portal.org/smash/record.jsf?pid=diva2%3A1937634)
 - [Atlas: Enabling Cross-Vendor mTLS Authentication for IoT - arXiv 2025](https://arxiv.org/html/2602.09263v1)
-- [TLS in the IoT Ecosystem - IEEE IMC 2021, NEU-SNS](https://github.com/NEU-SNS/IoTLS)
 - [Lightweight mTLS Authentication for Industrial IoT - PMC/NIH 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10222187/)
 - [Quantum-Enhanced mTLS for IoT Battlefield Networks - IJPSAT](https://ijpsat.org/index.php/ijpsat/article/download/6969/4447)
 - [AI vs. IoT Security: Fingerprinting and Defenses Against TLS Attacks - IEEE Xplore 2025](https://ieeexplore.ieee.org/document/11168239/)
@@ -1030,7 +1024,6 @@
 ### IoT Protocols Overview
 
 - [IoT Protocols Overview](https://www.postscapes.com/internet-of-things-protocols/)
-- [IoT Attack Surface - OWASP](https://owasp.org/www-project-internet-of-things/)
 - [IoT Architecture](https://www.c-sharpcorner.com/UploadFile/f88748/internet-of-things-part-2/)
 ---
 - [Attacking IoT Devices from Web Perspective](https://lug.uniroma2.it/eventi/linux-day-23/files/Linux%20Day%20-%20Attacking%20IoT%20Devices.pdf)
@@ -1200,9 +1193,6 @@
 - [FTDI-based Adapters](https://ftdichip.com/)
 - [Black Magic Probe](https://black-magic.org/)
 
-#### RF/SDR
-
-
 #### USB
 
 - [FaceDancer21](https://int3.cc/products/facedancer21)
@@ -1320,8 +1310,6 @@
 
 ### Secure Development
 
-- [OWASP IoT Top 10](https://owasp.org/www-project-internet-of-things/)
-- [ETSI EN 303 645 - IoT Security Standard](https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf)
 - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 - [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 - [Docker Security - Step-by-Step Hardening](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/)
@@ -1460,20 +1448,11 @@
 - [BLE CTF](https://github.com/hackgnar/ble_ctf)
 - [Microcorruption](https://microcorruption.com/login)
 - [ARM-X CTF](https://github.com/therealsaumil/armx)
-#### IoT
-
-
-#### Router/Firmware
-
-
 #### Hardware
 
 - [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking)
 - [Damn Vulnerable Safe](https://insinuator.net/2016/01/damn-vulnerable-safe/)
 - [Sticky Fingers DV-Pi](https://web.archive.org/web/2022/https://whitedome.com.au/re4son/sticky-fingers-dv-pi/)
-
-#### Wireless
-
 
 #### Industrial
 
@@ -1498,7 +1477,7 @@
 
 #### IoT CTFs
 
-- [IoTSec CTF](https://github.com/scriptingxss/IoTGoat)
+- [IoTSec CTF - IoTGoat](https://github.com/scriptingxss/IoTGoat)
 
 #### Embedded/Firmware CTFs
 
