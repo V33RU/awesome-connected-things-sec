@@ -1296,6 +1296,7 @@
 - [Recon-ng](https://github.com/lanmaster53/recon-ng)
 - [PublicWWW](https://publicwww.com/)
 - [FCC ID Database](https://fccid.io/)
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier
 ---
 ## Defensive Security
 
