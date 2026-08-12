@@ -240,7 +240,7 @@
     - [Phones/Tablets](#phonestablets)
   - [TrustZone and TEE Research](#trustzone-and-tee-research)
   - [Pwn2Own Research](#pwn2own-research)
-- [MCP / AI Agent Skills](#mcp--ai-agent-skills)
+- [MCP / AI Agent](#mcp--ai-agent)
   - [Bluetooth Reverse Engineering](#bluetooth-reverse-engineering)
 - [Contributing](#contributing)
 - [License](#license)
@@ -1697,7 +1697,7 @@
 - [Pwn2Own: WAN-to-LAN Exploit Showcase](https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase)
 ---
 
-## MCP / AI Agent Skills
+## MCP / AI Agent
 
 ### Bluetooth Reverse Engineering
 
