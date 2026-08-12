@@ -924,6 +924,7 @@
 - [Mosquitto - Open Source MQTT Broker](https://mosquitto.org/)
 - [HiveMQ](https://www.hivemq.com/)
 - [MQTT Explorer](http://mqtt-explorer.com/)
+- [MQTT Topic ACL Linter](https://github.com/visoar/mqtt-acl-linter) - Local-only static analysis for invalid, broad, duplicate, and overlapping MQTT topic-filter ACL rules; does not connect to a broker or replace a security audit.
 - [Nmap MQTT Library](https://nmap.org/nsedoc/lib/mqtt.html)
 - [Seven Best MQTT Client Tools](https://www.hivemq.com/blog/seven-best-mqtt-client-tools)
 
