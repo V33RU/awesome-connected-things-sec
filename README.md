@@ -1531,6 +1531,7 @@
 - [Lenovo Watch X Privacy Issues](https://www.checkmarx.com/blog/lenovo-watch-watching-you/)
 - [Smart Scale Privacy Issues](https://www.checkmarx.com/blog/smart-scale-privacy-issues-iot/)
 - [Besder IP Camera Security Analysis](https://github.com/KostasEreksonas/Besder-6024PB-XMA501-ip-camera-security-investigation)
+- [Router Default-Password Rates by Brand (277 manufacturer-verified models)](https://ssid.ai/reports/router-default-credentials-2026)
 
 ### Blogs
 
