@@ -1424,6 +1424,8 @@
 - [Mastering Hardware Hacking (2025)](https://www.amazon.in/Hacking-Machine-Engineering-Hardware-Embedded/dp/B0F29WV5HF)
 - [Ultimate Hardware Hacking Gear Guide](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-)
 - [Microcontroller Exploits (2024)](https://nostarch.com/microcontroller-exploits)
+- [Engineering Secure Devices - Dominik Merli (2024)](https://nostarch.com/engineering-secure-devices)
+- [Cryptography and Embedded Systems Security - Hou & Breier (2024)](https://link.springer.com/book/10.1007/978-3-031-62205-2)
 
 #### Firmware and Reverse Engineering
 
@@ -1432,6 +1434,8 @@
 - [Fuzzing Against the Machine (2023)](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976)
 - [Ghidra Software Reverse Engineering 2nd Edition (2025)](https://www.amazon.in/Ghidra-Software-Reverse-Engineering-Beginners-Second/dp/B0DJGQ91R5)
 - [The Definitive Handbook on Reverse Engineering Tools (2025)](https://www.amazon.in/Definitive-Handbook-Reverse-Engineering-Tools-ebook/dp/B0F29HLW5B)
+- [x86 Software Reverse-Engineering, Cracking, and Counter-Measures - Domas & Domas (2024)](https://www.wiley.com/en-us/x86+Software+Reverse-Engineering,+Cracking,+and+Counter-Measures-p-9781394199884)
+- [The Spacecraft Hacker's Handbook - Olchawa & Starcik (2026)](https://nostarch.com/spacecraft-hacking)
 
 #### IoT Security
 
@@ -1439,6 +1443,8 @@
 - [IoT Penetration Testing Cookbook - Aaron Guzman & Aditya Gupta (2017)](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)
 - [Practical IoT Hacking: The Definitive Guide (2021)](https://nostarch.com/practical-iot-hacking)
 - [PatrIoT: Practical and Agile Threat Research for IoT (2022)](https://link.springer.com/article/10.1007/s10207-022-00633-3)
+- [The Embedded Linux Security Handbook - St. Onge & Krishnan (2025)](https://www.packtpub.com/en-us/product/the-embedded-linux-security-handbook-9781835885659)
+- [Securing Smart Things - Massimo Nardone (2026)](https://link.springer.com/book/10.1007/979-8-8688-2367-1)
 
 #### Wireless and RF
 
@@ -1454,10 +1460,16 @@
 - [Near Field Communication (NFC): From Theory to Practice (2012)](https://www.amazon.in/Near-Field-Communication-NFC-Practice/dp/1119971098)
 - [Security Issues in Mobile NFC Devices - Michael Roland (2024)](https://link.springer.com/book/10.1007/978-3-319-15488-6)
 
+#### Automotive Security
+
+- [Building Secure Automotive IoT Applications - Oka et al. (2024)](https://www.packtpub.com/en-us/product/building-secure-automotive-iot-applications-9781835465509)
+- [Offensive Automotive Cybersecurity - Nasser & Oka (2025)](https://www.packtpub.com/en-us/product/offensive-automotive-cybersecurity-9781836648628)
+
 #### Industrial and General Security
 
 - [Gray Hat Hacking 5th Edition (2018)](https://www.amazon.in/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H)
 - [Black Hat Python 2nd Edition (2021)](https://nostarch.com/black-hat-python-2nd-edition)
+- [Securing Industrial Control Systems - Rahman et al. (2026)](https://www.amazon.com/Securing-Industrial-Control-Systems-Technologies/dp/303203017X)
 
 #### White Papers and Reports
 
