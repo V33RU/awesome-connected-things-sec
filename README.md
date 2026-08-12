@@ -240,6 +240,8 @@
     - [Phones/Tablets](#phonestablets)
   - [TrustZone and TEE Research](#trustzone-and-tee-research)
   - [Pwn2Own Research](#pwn2own-research)
+- [MCP / AI Agent Skills](#mcp--ai-agent-skills)
+  - [Bluetooth Reverse Engineering](#bluetooth-reverse-engineering)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -388,7 +390,7 @@
 - [Intro to Bluetooth Low Energy (PDF)](https://daskalakispiros.com/files/Ebooks/Intro+to+Bluetooth+Low+Energy+v1.1.pdf)
 - [Bluetooth LE Security Study Guide](https://www.bluetooth.com/bluetooth-resources/le-security-study-guide/)
 - [Reverse Engineering BLE Devices](https://reverse-engineering-ble-devices.readthedocs.io/en/latest/)
-- [My Journey Towards Reverse Engineering a Smart Band — Bluetooth-LE RE](https://medium.com/@arunmag/my-journey-towards-reverse-engineering-a-smart-band-bluetooth-le-re-d1dea00e4de2)
+- [My Journey Towards Reverse Engineering a Smart Band - Bluetooth-LE RE](https://medium.com/@arunmag/my-journey-towards-reverse-engineering-a-smart-band-bluetooth-le-re-d1dea00e4de2)
 #### Exploitation Techniques
 
 - [Intel Edison as Bluetooth LE Exploit Box](https://medium.com/@arunmag/intel-edison-as-bluetooth-le-exploit-box-a63e4cad6580)
@@ -604,7 +606,7 @@
 - [Over The Air: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html)
 - [Reverse-engineering Broadcom wireless chipsets](https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html)
 - [Exploiting Qualcomm WLAN and Modem Over the Air](https://i.blackhat.com/USA-19/Thursday/us-19-Pi-Exploiting-Qualcomm-WLAN-And-Modem-Over-The-Air-wp.pdf)
-- [Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078](https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/)
+- [Windows Wi-Fi Driver RCE Vulnerability - CVE-2024-30078](https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/)
 - [When a Wi-Fi SSID Gives You Root on an MT02 Repeater - Part 1](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/)
 - [When a Wi-Fi SSID Gives You Root on an MT02 Repeater - Part 2](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/)
 
@@ -860,8 +862,8 @@
 - [ROPing Routers from scratch: Tenda Ac8v4](https://0reg.dev/blog/tenda-ac8-rop)
 - [PwnAgent: A One-Click WAN-side RCE in Netgear RAX Routers](https://mahaloz.re/2023/02/25/pwnagent-netgear.html)
 - [Puckungfu 2: Another NETGEAR WAN Command Injection](https://research.nccgroup.com/2024/02/09/puckungfu-2-another-netgear-wan-command-injection/)
-- [Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887](https://infosecwriteups.com/reversing-discovering-and-exploiting-a-tp-link-router-vulnerability-cve-2024-54887-341552c4b104)
-- [Exploiting Zero-Day (CVE-2025–9961) Vulnerability in the TP-Link AX10 Router](https://blog.byteray.co.uk/exploiting-zero-day-cve-2025-9961-in-the-tp-link-ax10-router-8745f9af9c46)
+- [Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability - CVE-2024-54887](https://infosecwriteups.com/reversing-discovering-and-exploiting-a-tp-link-router-vulnerability-cve-2024-54887-341552c4b104)
+- [Exploiting Zero-Day (CVE-2025-9961) Vulnerability in the TP-Link AX10 Router](https://blog.byteray.co.uk/exploiting-zero-day-cve-2025-9961-in-the-tp-link-ax10-router-8745f9af9c46)
 - [FiberGateway GR241AG - Full Exploit Chain](https://r0ny.net/FiberGateway-GR241AG-Full-Exploit-Chain/)
 - [Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC](https://tsmr.eu/blackbox-fuzzing.html)
 - [Rooting the TP-Link Tapo C200 Rev.5](https://quentinkaiser.be/security/2025/07/25/rooting-tapo-c200/)
@@ -998,7 +1000,7 @@
 
 - [mTLS: When Certificate Authentication is Done Wrong](https://github.blog/security/vulnerability-research/mtls-when-certificate-authentication-is-done-wrong/)
 - [mTLS Authentication in IoT: Enhancing Security for Connected Devices](https://www.regamiota.com/post/mtls-authentication-in-iot-enhancing-security-for-connected-devices)
-- [Hands On IoT MitM Part 1 – AWS IoT MQTT + mTLS Interception](https://samrambles.com/projects/hunter-hacking/hands-on-iot-mitm-part-1/)
+- [Hands On IoT MitM Part 1 - AWS IoT MQTT + mTLS Interception](https://samrambles.com/projects/hunter-hacking/hands-on-iot-mitm-part-1/)
 - [OWASP MASTG-TECH-0012: Bypassing Certificate Pinning in Android IoT Companion Apps](https://mas.owasp.org/MASTG/techniques/android/MASTG-TECH-0012/)
 - [Theory to Practice: mTLS in Action Part 1](https://klika-tech.com/blog/2025/08/28/theory-to-practice-mtls-in-action-part-1)
 - [Firmware Analysis for IoT Penetration Testing](https://blog.attify.com/)
@@ -1101,7 +1103,7 @@
 
 - [Android: Scudo](https://technologeeks.com/blog/Scudo/)
 - [Behind the Shield: Unmasking Scudo's Defenses](https://www.synacktiv.com/en/publications/behind-the-shield-unmasking-scudos-defenses)
-- [scudo Hardened Allocator — Unofficial Internals Documentation](https://www.l3harris.com/newsroom/editorial/2023/10/scudo-hardened-allocator-unofficial-internals-documentation)
+- [scudo Hardened Allocator - Unofficial Internals Documentation](https://www.l3harris.com/newsroom/editorial/2023/10/scudo-hardened-allocator-unofficial-internals-documentation)
 
 ### iOS
 
@@ -1321,7 +1323,7 @@
 - [ETSI EN 303 645 - IoT Security Standard](https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf)
 - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 - [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
-- [Docker Security – Step-by-Step Hardening](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/)
+- [Docker Security - Step-by-Step Hardening](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/)
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 ---
 #### Guidelines and Standards
@@ -1620,7 +1622,7 @@
 - [Rooting a Hive Camera](https://boredpentester.com/rooting-hive-ip-cameras/)
 - [Pwn2Own: Synology BC500 IP Camera](https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera)
 - [Turning Camera Surveillance on its Axis](https://claroty.com/team82/research/turning-camera-surveillance-on-its-axis)
-- [Pwn2Own Ireland 2024 – Ubiquiti AI Bullet](https://blog.compass-security.com/2025/06/pwn2own-ireland-2024-ubiquiti-ai-bullet/)
+- [Pwn2Own Ireland 2024 - Ubiquiti AI Bullet](https://blog.compass-security.com/2025/06/pwn2own-ireland-2024-ubiquiti-ai-bullet/)
 
 #### Smart Home Devices
 
@@ -1693,6 +1695,17 @@
 - [Pwn2Own Toronto 2023 Series - Parts 1-5](https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-1-how-it-all-started/)
 - [Pwn2Own: WAN-to-LAN Exploit Showcase](https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase)
 ---
+
+## MCP / AI Agent Skills
+
+Skills, tools, and agents built for LLM coding assistants (Claude Code, ChatGPT/Codex, etc.) to assist in embedded and wireless security research.
+
+### Bluetooth Reverse Engineering
+
+- [bt-re-mad-skillz](https://github.com/darkmentorllc/bt-re-mad-skillz) - LLM skills for reverse engineering Bluetooth Controller firmware at the HCI layer and below. Supports Claude Code and ChatGPT/Codex. Includes `/bt-re-controller` (Ghidra-based BLE/BR-EDR controller firmware analysis with chip/spec/stack params) and `/bt-re-controller-merge-ghidra-files` (merges rename outputs from two different models into a single Ghidra project).
+
+---
+
 ## Contributing
 Contributions welcome. Submit a PR with new resources following the existing structure.
 
