@@ -401,7 +401,6 @@
 - [Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero](https://www.whid.ninja/blog/denial-of-pleasure-attacking-unusual-ble-targets-with-a-flipper-zero)
 - [Grand Theft Auto: A peek of BLE relay attack](https://rollingpwn.github.io/BLE-Relay-Aattck/)
 - [How I Hacked Smart Lights: CVE-2022-47758](https://pwning.tech/cve-2022-47758/)
-- [NFC Relay Attack on Tesla Model Y](https://act-on.ioactive.com/acton/attachment/34793/f-6460b49e-1afe-41c3-8f73-17dc14916847/1/-/-/-/-/NFC-relay-TESlA_JRoriguez.pdf)
 #### Vulnerability Research
 
 - [Finding Bugs in Bluetooth](https://bluetooth.lol/)
@@ -577,6 +576,7 @@
 - [Awesome RFID/NFC Security Talks](https://github.com/doegox/awesome-rfid-talks)
 - [RFID Discord Group](https://discord.gg/Z43TrcVyPr)
 - [SoK: Security of EMV Contactless Payment Systems](https://arxiv.org/pdf/2504.12812)
+- [NFC Relay Attack on Tesla Model Y](https://act-on.ioactive.com/acton/attachment/34793/f-6460b49e-1afe-41c3-8f73-17dc14916847/1/-/-/-/-/NFC-relay-TESlA_JRoriguez.pdf)
 ### DECT (Digital Enhanced Cordless Telecommunications)
 
 - [Real Time Interception of DECT Cordless Telephone](https://www.youtube.com/watch?v=MDF1eUvOte0)
@@ -829,7 +829,7 @@
 - [Bootkitty: First UEFI Bootkit for Linux (ESET, 2024)](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
 - [UEFI Firmware Rootkits: Myths and Reality (BlackHat 2024)](https://www.blackhat.com/us-24/briefings/schedule/index.html)
 - [CVE-2024-0762 - PixieFail Followup TPM Bypass](https://eclypsium.com/blog/ueficanhazbufferoverflow-widespread-impact-from-vulnerability-in-popular-pc-and-server-firmware/)
----
+
 ### Symlink Attacks
 
 - [Zip Slip Vulnerability](https://security.snyk.io/research/zip-slip-vulnerability)
@@ -1025,7 +1025,6 @@
 
 - [IoT Protocols Overview](https://www.postscapes.com/internet-of-things-protocols/)
 - [IoT Architecture](https://www.c-sharpcorner.com/UploadFile/f88748/internet-of-things-part-2/)
----
 - [Attacking IoT Devices from Web Perspective](https://lug.uniroma2.it/eventi/linux-day-23/files/Linux%20Day%20-%20Attacking%20IoT%20Devices.pdf)
 - [Awesome Industrial Protocols](https://github.com/Orange-Cyberdefense/awesome-industrial-protocols)
 ## Cloud and Backend Security
@@ -1038,7 +1037,7 @@
 - [Pacu - AWS Exploitation Framework](https://github.com/RhinoSecurityLabs/pacu)
 - [ScoutSuite - Multi-cloud Security Auditing](https://github.com/nccgroup/ScoutSuite)
 - [Prowler - Cloud Security Assessment](https://github.com/prowler-cloud/prowler)
----
+
 #### Fundamentals
 
 - [Comprehensive AWS Pentesting Guide - BreachLock](https://www.breachlock.com/resources/blog/comprehensive-aws-pentesting-guide/)
@@ -1102,7 +1101,6 @@
 
 - [iOS Pentesting Guide](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 - [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
----
 - [An iOS hacker tries Android](https://googleprojectzero.blogspot.com/2020/12/an-ios-hacker-tries-android.html)
 - [Analyzing IOS Kernel Panic Logs](https://8ksec.io/analyzing-kernel-panic-ios/)
 - [Blasting Past iOS 18](https://blog.dfsec.com/ios/2025/05/30/blasting-past-ios-18/)
@@ -1129,7 +1127,6 @@
 - [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
 - [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
 - [Car Hacking Practical Guide 101](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
----
 - [CAN Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 - [How I Hacked my Car Series - Parts 1-6](https://programmingwithstyle.com/posts/howihackedmycar/)
 - [How I Also Hacked my Car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
@@ -1161,7 +1158,7 @@
 - [Pwning ATMs for Fun and Profit](https://www.youtube.com/watch?v=9cG-JL0LHYw)
 - [Jackpotting ATMs Redux - Barnaby Jack](https://www.youtube.com/watch?v=4StcW9OPpPc)
 - [Root Shell on Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
----
+
 ### Payment Village
 
 - [Payment Village](https://www.paymentvillage.org/home)
@@ -1287,7 +1284,9 @@
 - [PublicWWW](https://publicwww.com/)
 - [FCC ID Database](https://fccid.io/)
 - [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier
+
 ---
+
 ## Defensive Security
 
 ### Threat Modeling
@@ -1314,7 +1313,7 @@
 - [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 - [Docker Security - Step-by-Step Hardening](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/)
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
----
+
 #### Guidelines and Standards
 
 - [NIST IoT Cybersecurity Framework](https://www.nist.gov/itl/applied-cybersecurity/nist-cybersecurity-iot-program)
@@ -1407,7 +1406,7 @@
 - [IoT Penetration Testing Cookbook - Aaron Guzman & Aditya Gupta (2017)](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)
 - [Practical IoT Hacking: The Definitive Guide (2021)](https://nostarch.com/practical-iot-hacking)
 - [PatrIoT: Practical and Agile Threat Research for IoT (2022)](https://link.springer.com/article/10.1007/s10207-022-00633-3)
----
+
 #### Wireless and RF
 
 - [Inside Radio: An Attack and Defense Guide - Qing Yang, Lin Huang (2018)](https://books.google.co.in/books?id=71NSDwAAQBAJ)
@@ -1566,13 +1565,12 @@
 
 - [IoTSecurity101 Telegram](https://t.me/iotsecurity1011)
 - [IoTSecurity101 Reddit](https://www.reddit.com/r/IoTSecurity101/)
-- [IoTSecurity101 Discord](https://discord.gg/EH9dxT9)
 - [Hardware Hacking Telegram](https://t.me/hardwareHackingBrasil)
 ### Villages
 
 - [IoT Village](https://www.iotvillage.org/index.html)
 - [RF Hackers](https://rfhackers.com/)
----
+
 ### Researchers to Follow
 
 - [Jilles](https://twitter.com/jilles_com)
@@ -1674,6 +1672,7 @@
 - [Your not so "Home Office" - SOHO Hacking at Pwn2Own](http://conference.hitb.org/files/hitbsecconf2023ams/materials/D1T1%20-%20Your%20Not%20So%20Home%20Office%20-%20Soho%20Hacking%20at%20Pwn2Own%20-%20McCaulay%20Hudson%20&%20Alex%20Plaskett.pdf)
 - [Pwn2Own Toronto 2023 Series - Parts 1-5](https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-1-how-it-all-started/)
 - [Pwn2Own: WAN-to-LAN Exploit Showcase](https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase)
+
 ---
 
 ## MCP / AI Agent
