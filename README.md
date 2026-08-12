@@ -74,15 +74,15 @@
     - [Exploitation Techniques](#exploitation-techniques)
     - [Vulnerability Research](#vulnerability-research)
     - [Conference Talks](#conference-talks)
-    - [Tools - Software](#tools-software)
-    - [Tools - Hardware](#tools-hardware)
+    - [Tools - Software](#tools---software)
+    - [Tools - Hardware](#tools---hardware)
     - [Tools](#tools)
     - [Hacking Bluetooth Coffee Machines](#hacking-bluetooth-coffee-machines)
   - [Zigbee / Z-Wave](#zigbee-z-wave)
     - [Fundamentals](#fundamentals-3)
     - [Exploitation](#exploitation)
-    - [Tools - Software](#tools-software-1)
-    - [Tools - Hardware](#tools-hardware-1)
+    - [Tools - Software](#tools---software-1)
+    - [Tools - Hardware](#tools---hardware-1)
   - [LoRa / LoRaWAN](#lora-lorawan)
     - [Fundamentals](#fundamentals-4)
     - [Exploitation](#exploitation-1)
@@ -142,8 +142,8 @@
     - [Malware Research](#malware-research)
   - [CoAP](#coap)
     - [Specifications and Security](#specifications-and-security)
-    - [Tools - Software](#tools-software-2)
-    - [Tools - Hardware](#tools-hardware-2)
+    - [Tools - Software](#tools---software-2)
+    - [Tools - Hardware](#tools---hardware-2)
     - [Research and Tutorials](#research-and-tutorials)
   - [mTLS](#mtls)
   - [IoT Protocols Overview](#iot-protocols-overview)
@@ -170,7 +170,7 @@
     - [Multi-Purpose](#multi-purpose)
     - [Debug Adapters](#debug-adapters)
     - [USB](#usb-1)
-    - [Glitching](#glitching)
+    - [Glitching](#glitching-attacks)
     - [Flipper Zero](#flipper-zero)
     - [Hak5](#hak5)
   - [Software Tools](#software-tools)
@@ -236,7 +236,7 @@
     - [Phones/Tablets](#phonestablets)
   - [TrustZone and TEE Research](#trustzone-and-tee-research)
   - [Pwn2Own Research](#pwn2own-research)
-- [MCP / AI Agent](#mcp--ai-agent)
+- [MCP / AI Agent](#mcp-ai-agent)
   - [Bluetooth Reverse Engineering](#bluetooth-reverse-engineering)
 - [Contributing](#contributing)
 - [License](#license)
@@ -257,7 +257,7 @@
 
 - [Identifying UART Interface](https://www.mikroe.com/blog/uart-serial-communication)
 - [Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
-- [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
+- [Reverse Engineering Serial Ports](https://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
 - [Intro to Embedded RE: UART Discovery and Firmware Extraction via UBoot](https://voidstarsec.com/blog/uart-uboot-and-usb)
 - [Using UART to Connect to a Chinese IP Cam](https://www.davidsopas.com/using-uart-to-connect-to-a-chinese-ip-cam/)
 - [A Journey into IoT Hardware Hacking: UART](https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/)
@@ -298,7 +298,7 @@
 - [IoT Security Part 16: Hardware Attack Surface I2C](https://payatu.com/masterclass/iot-security-part-16-101-hardware-attack-surface-i2c/)
 - [I2C Exploitation - HackTricks](https://book.hacktricks.xyz/todo/hardware-hacking/i2c)
 - [Non-invasive I2C Hardware Trojan Attack Vector (PDF)](https://hal.science/hal-03703165/document)
-- [Hardware Hacking: I2C Injection with Bus Pirate](http://www.rockfishsec.com/2014/09/hardware-hacking-i2c-injection-with-bus.html)
+- [Hardware Hacking: I2C Injection with Bus Pirate](https://www.rockfishsec.com/2014/09/hardware-hacking-i2c-injection-with-bus.html)
 - [Safeguarding SPI, I2C, and I3C Protocols](https://ez.analog.com/ez-blogs/b/engineering-mind/posts/do-your-embedded-systems-safeguard-against-threats-to-spi-i2c-and-i3c)
 
 #### TPM
@@ -326,7 +326,7 @@
 
 #### Glitching Attacks
 
-- [NAND Glitching Attack on Wink Hub](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
+- [NAND Glitching Attack on Wink Hub](https://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
 - [Voltage Glitching with Crowbars Tutorial](https://chipwhisperer.readthedocs.io/en/latest/tutorials.html)
 - [Voltage Glitching Attack using iCEstick Glitcher](https://www.youtube.com/watch?v=FVUhVewFmxw)
 - [FPGA Glitching and Side Channel Attacks - Samy Kamkar](https://www.youtube.com/watch?v=oGndiX5tvEk)
@@ -812,7 +812,7 @@
 
 #### Development
 
-- [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+- [Writing a Bootloader](https://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 
 #### Bypasses
 
@@ -878,9 +878,9 @@
 
 #### Netgear Series
 
-- [Netgear Orbi: Introduction, UART Access, Recon](http://blog.coffinsec.com/research/2022/06/12/orbi-hunting-0-intro-uart.html)
-- [Netgear Orbi: Crashes in SOAP-API](http://blog.coffinsec.com/research/2022/06/19/orbi-hunting-1-soap-api-crashes.html)
-- [Netgear Orbi: NDay Exploit CVE-2020-27861](http://blog.coffinsec.com/research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
+- [Netgear Orbi: Introduction, UART Access, Recon](https://blog.coffinsec.com/research/2022/06/12/orbi-hunting-0-intro-uart.html)
+- [Netgear Orbi: Crashes in SOAP-API](https://blog.coffinsec.com/research/2022/06/19/orbi-hunting-1-soap-api-crashes.html)
+- [Netgear Orbi: NDay Exploit CVE-2020-27861](https://blog.coffinsec.com/research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 - [The Last Breath of Our Netgear RAX30 Bugs](https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/)
 
 #### TP-Link Series
@@ -914,7 +914,7 @@
 
 #### Fundamentals
 
-- [Understanding the MQTT Protocol Packet Structure](http://www.steves-internet-guide.com/mqtt-protocol-messages-overview/)
+- [Understanding the MQTT Protocol Packet Structure](https://www.steves-internet-guide.com/mqtt-protocol-messages-overview/)
 
 #### Security and Exploitation
 
@@ -934,7 +934,7 @@
 
 - [Mosquitto - Open Source MQTT Broker](https://mosquitto.org/)
 - [HiveMQ](https://www.hivemq.com/)
-- [MQTT Explorer](http://mqtt-explorer.com/)
+- [MQTT Explorer](https://mqtt-explorer.com/)
 - [MQTT Topic ACL Linter](https://github.com/visoar/mqtt-acl-linter) - Local-only static analysis for invalid, broad, duplicate, and overlapping MQTT topic-filter ACL rules; does not connect to a broker or replace a security audit.
 - [Nmap MQTT Library](https://nmap.org/nsedoc/lib/mqtt.html)
 - [Seven Best MQTT Client Tools](https://www.hivemq.com/blog/seven-best-mqtt-client-tools)
@@ -1143,7 +1143,7 @@
 
 - [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)
 - [Car Hacking Village](https://www.carhackingvillage.com/)
-- [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
+- [Jeep Hack](https://illmatics.com/Remote%20Car%20Hacking.pdf)
 - [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
 - [Car Hacking Practical Guide 101](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
 - [CAN Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
@@ -1214,18 +1214,18 @@
 
 - [FaceDancer21](https://int3.cc/products/facedancer21)
 - [RfCat](https://int3.cc/products/rfcat)
-- [NullSec Ducky Payloads](https://github.com/bad-antics/nullsec-ducky-payloads) - Rubber Ducky BadUSB payloads for WiFi credential extraction, reverse shells, and automated recon on Windows, macOS & Linux.
+- [NullSec Ducky Payloads](https://github.com/bad-antics/nullsec-ducky-payloads) - Rubber Ducky BadUSB payload collection for Windows, macOS and Linux.
 
 
 #### Flipper Zero
 
-- [NullSec Flipper Suite](https://github.com/bad-antics/nullsec-flipper-suite) - Comprehensive Flipper Zero payload collection for RF analysis, RFID/NFC cloning, BadUSB attacks, infrared, and wireless pentesting.
-- [PineFlip](https://github.com/bad-antics/pineflip) - Professional Flipper Zero companion app for Linux with GTK4/libadwaita UI, screen mirroring, file manager, and firmware management.
+- [NullSec Flipper Suite](https://github.com/bad-antics/nullsec-flipper-suite) - Flipper Zero payload collection for RF, RFID/NFC, BadUSB, infrared and wireless pentesting.
+- [PineFlip](https://github.com/bad-antics/pineflip) - Flipper Zero companion app for Linux with screen mirroring, file manager and firmware management.
 
 #### Hak5
 
 - [Hak5 Field Kits](https://hakshop.com/)
-- [NullSec Pineapple Suite](https://github.com/bad-antics/nullsec-pineapple-suite) - 60+ WiFi Pineapple payloads for wireless pentesting including deauth, evil twin, handshake capture, PMKID extraction, and network reconnaissance.
+- [NullSec Pineapple Suite](https://github.com/bad-antics/nullsec-pineapple-suite) - WiFi Pineapple payload collection for deauth, evil twin, handshake capture and network recon.
 
 
 ### Software Tools
@@ -1309,7 +1309,7 @@
 - [Recon-ng](https://github.com/lanmaster53/recon-ng)
 - [PublicWWW](https://publicwww.com/)
 - [FCC ID Database](https://fccid.io/)
-- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub PoC repositories by CVE ID
 
 ---
 
@@ -1553,23 +1553,23 @@
 - [Exploitee.rs](https://www.exploitee.rs/)
 - [Payatu Blog](https://payatu.com/blog/)
 - [Raelize Blog](https://raelize.com/blog/)
-- [JCJC Dev](http://jcjc-dev.com/)
+- [JCJC Dev](https://jcjc-dev.com/)
 - [W00tsec](https://w00tsec.blogspot.in/)
-- [Devttys0](http://www.devttys0.com/)
+- [Devttys0](https://www.devttys0.com/)
 - [Embedded Bits](https://embeddedbits.org/)
 - [Keenlab](https://keenlab.tencent.com/en/)
 - [Courk.cc](https://courk.cc/)
 - [IoT Security Wiki](https://iotsecuritywiki.com/)
 - [Cybergibbons](https://cybergibbons.com/)
-- [Firmware.RE](http://firmware.re/)
+- [Firmware.RE](https://firmware.re/)
 - [K3170makan](https://k3170makan.medium.com/)
 - [Tclaverie](https://blog.tclaverie.eu/)
 - [Besimaltinok](https://web.archive.org/web/2022/http://blog.besimaltinok.com/category/iot-pentest/)
 - [Ctrlu](https://ctrlu.net/)
-- [IoT Pentest](http://iotpentest.com/)
+- [IoT Pentest](https://iotpentest.com/)
 - [Duo Decipher](https://duo.com/decipher/)
-- [Sp3ctr3](http://www.sp3ctr3.me)
-- [0x42424242](http://blog.0x42424242.in/)
+- [Sp3ctr3](https://www.sp3ctr3.me)
+- [0x42424242](https://blog.0x42424242.in/)
 - [Dantheiotman](https://dantheiotman.com/)
 - [Danman](https://blog.danman.eu/)
 - [Quentinkaiser](https://quentinkaiser.be/)
@@ -1580,7 +1580,7 @@
 - [CJHackerz](https://cjhackerz.net/)
 - [Bunnie's Blog](https://github.com/sponsors/bunnie/)
 - [Synacktiv Publications](https://www.synacktiv.com/publications.html)
-- [Cr4.sh](http://blog.cr4.sh/)
+- [Cr4.sh](https://blog.cr4.sh/)
 - [Ktln2](https://ktln2.org/)
 - [Naehrdine](https://naehrdine.blogspot.com/)
 - [Limited Results](https://limitedresults.com/)
@@ -1648,7 +1648,7 @@
 #### Smart Speakers
 
 - [Turning Google smart speakers into wiretaps for $100k](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
-- [Smart Speaker Shenanigans: Making the Sonos ONE Sing its Secrets](http://conference.hitb.org/files/hitbsecconf2023ams/materials/D2T1%20-%20Smart%20Speaker%20Shenanigans%20-%20Making%20the%20SONOS%20One%20Sing%20Its%20Secrets%20-%20Peter%20Geissler.pdf)
+- [Smart Speaker Shenanigans: Making the Sonos ONE Sing its Secrets](https://conference.hitb.org/files/hitbsecconf2023ams/materials/D2T1%20-%20Smart%20Speaker%20Shenanigans%20-%20Making%20the%20SONOS%20One%20Sing%20Its%20Secrets%20-%20Peter%20Geissler.pdf)
 - [Listen Up: Sonos Over-The-Air Remote Kernel Exploitation and Covert Wiretap](https://www.nccgroup.com/media/uzbp3ttw/bhus24_sonos_whitepaper.pdf)
 - [Streaming Zero-Fi Shells to Your Smart Speaker](https://blog.ret2.io/2025/06/11/pwn2own-soho-2024-sonos-exploit/)
 
@@ -1705,7 +1705,7 @@
 
 ### Pwn2Own Research
 
-- [Your not so "Home Office" - SOHO Hacking at Pwn2Own](http://conference.hitb.org/files/hitbsecconf2023ams/materials/D1T1%20-%20Your%20Not%20So%20Home%20Office%20-%20Soho%20Hacking%20at%20Pwn2Own%20-%20McCaulay%20Hudson%20&%20Alex%20Plaskett.pdf)
+- [Your not so "Home Office" - SOHO Hacking at Pwn2Own](https://conference.hitb.org/files/hitbsecconf2023ams/materials/D1T1%20-%20Your%20Not%20So%20Home%20Office%20-%20Soho%20Hacking%20at%20Pwn2Own%20-%20McCaulay%20Hudson%20&%20Alex%20Plaskett.pdf)
 - [Pwn2Own Toronto 2023 Series - Parts 1-5](https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-1-how-it-all-started/)
 - [Pwn2Own: WAN-to-LAN Exploit Showcase](https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase)
 
