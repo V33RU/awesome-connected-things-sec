@@ -1417,6 +1417,7 @@
 - [Practical Hardware Pentesting 2nd Edition (2023)](https://www.packtpub.com/product/practical-hardware-pentesting-second-edition/9781803249322)
 - [Hardware Hacking: Have Fun While Voiding Your Warranty - Joe Grand (2004)](https://www.elsevier.com/books/hardware-hacking/grand/978-1-932266-83-2)
 - [Hacking the Xbox - Andrew "bunnie" Huang (2013)](https://www.nostarch.com/xboxfree)
+- [The Hardware Hacker - Andrew "bunnie" Huang (2019)](https://nostarch.com/hardwarehackerpaperback)
 - [The Art of PCB Reverse Engineering - Keng Tiong (2015)](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441)
 - [Manual PCB-RE: The Essentials - Keng Tiong (2021)](https://www.amazon.in/Manual-PCB-RE-Essentials-Keng-Tiong/dp/B0974Z3NDS)
 - [Hardware Security Training, Hands-on! (2023)](https://link.springer.com/book/10.1007/978-3-031-31034-8)
@@ -1432,10 +1433,15 @@
 - [The Firmware Handbook - Jack Ganssle (2004)](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 - [Learning Linux Binary Analysis - Ryan O'Neill (2016)](https://www.packtpub.com/en-bg/product/learning-linux-binary-analysis-9781782167112)
 - [Fuzzing Against the Machine (2023)](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976)
+- [Practical Binary Analysis - Dennis Andriesse (2018)](https://nostarch.com/binaryanalysis)
+- [Rootkits and Bootkits - Matrosov, Rodionov, Bratus (2019)](https://nostarch.com/rootkits)
 - [Ghidra Software Reverse Engineering 2nd Edition (2025)](https://www.amazon.in/Ghidra-Software-Reverse-Engineering-Beginners-Second/dp/B0DJGQ91R5)
+- [The Ghidra Book 2nd Edition - Nance & Eagle (2026)](https://nostarch.com/ghidra-book-2e)
 - [The Definitive Handbook on Reverse Engineering Tools (2025)](https://www.amazon.in/Definitive-Handbook-Reverse-Engineering-Tools-ebook/dp/B0F29HLW5B)
 - [x86 Software Reverse-Engineering, Cracking, and Counter-Measures - Domas & Domas (2024)](https://www.wiley.com/en-us/x86+Software+Reverse-Engineering,+Cracking,+and+Counter-Measures-p-9781394199884)
-- [The Spacecraft Hacker's Handbook - Olchawa & Starcik (2026)](https://nostarch.com/spacecraft-hacking)
+- [Fuzzing Android - Zawawy, Rodionov et al. (2026)](https://nostarch.com/fuzzing-android)
+- [From Day Zero to Zero Day - Eugene Lim (2025)](https://nostarch.com/zero-day)
+- [The Spacecraft Hacker's Handbook - Olchawa & Starcik (2026)](https://nostarch.com/spacecraft-hackers-handbook)
 
 #### IoT Security
 
@@ -1450,6 +1456,9 @@
 
 - [Inside Radio: An Attack and Defense Guide - Qing Yang, Lin Huang (2018)](https://books.google.co.in/books?id=71NSDwAAQBAJ)
 - [Hack the Airwaves: Advanced BLE Exploitation (2023)](https://www.amazon.in/Hack-Airwaves-Exploitation-Techniques-Cybersecurity/dp/B0CFX2S4ZM)
+- [Practical SDR - David Clark & Paul Clark (2025)](https://nostarch.com/practical-sdr)
+- [The Art of ARM Assembly, Volume 1 - Randall Hyde (2025)](https://nostarch.com/art-arm-assembly-volume-1)
+- [The Wireless Cookbook - Bill Zimmerman (2026)](https://nostarch.com/wireless-cookbook)
 
 #### Embedded and Mobile
 
@@ -1462,6 +1471,7 @@
 
 #### Automotive Security
 
+- [The Car Hacker's Handbook - Craig Smith (2016)](https://nostarch.com/carhacking)
 - [Building Secure Automotive IoT Applications - Oka et al. (2024)](https://www.packtpub.com/en-us/product/building-secure-automotive-iot-applications-9781835465509)
 - [Offensive Automotive Cybersecurity - Nasser & Oka (2025)](https://www.packtpub.com/en-us/product/offensive-automotive-cybersecurity-9781836648628)
 
@@ -1469,6 +1479,7 @@
 
 - [Gray Hat Hacking 5th Edition (2018)](https://www.amazon.in/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H)
 - [Black Hat Python 2nd Edition (2021)](https://nostarch.com/black-hat-python-2nd-edition)
+- [Attacking Network Protocols - James Forshaw (2017)](https://nostarch.com/networkprotocols)
 - [Securing Industrial Control Systems - Rahman et al. (2026)](https://www.amazon.com/Securing-Industrial-Control-Systems-Technologies/dp/303203017X)
 
 #### White Papers and Reports
