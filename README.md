@@ -170,7 +170,6 @@
     - [Multi-Purpose](#multi-purpose)
     - [Debug Adapters](#debug-adapters)
     - [USB](#usb-1)
-    - [Glitching](#glitching-attacks)
     - [Flipper Zero](#flipper-zero)
     - [Hak5](#hak5)
   - [Software Tools](#software-tools)
@@ -458,9 +457,9 @@
 
 #### Hacking Bluetooth Coffee Machines
 
-- [Hacking Bluetooth to Brew Coffee from Github Actions - Part 1](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/)
-- [Hacking Bluetooth to Brew Coffee from Github Actions - Part 2](https://grack.com/blog/2022/12/02/hacking-bluetooth-to-brew-coffee-on-github-actions-part-2/)
-- [Hacking Bluetooth to Brew Coffee from Github Actions - Part 3](https://grack.com/blog/2022/12/04/hacking-bluetooth-to-brew-coffee-on-github-actions-part-3/)
+- [Hacking Bluetooth to Brew Coffee from GitHub Actions - Part 1](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/)
+- [Hacking Bluetooth to Brew Coffee from GitHub Actions - Part 2](https://grack.com/blog/2022/12/02/hacking-bluetooth-to-brew-coffee-on-github-actions-part-2/)
+- [Hacking Bluetooth to Brew Coffee from GitHub Actions - Part 3](https://grack.com/blog/2022/12/04/hacking-bluetooth-to-brew-coffee-on-github-actions-part-3/)
 
 ### Zigbee / Z-Wave
 
@@ -991,20 +990,20 @@
 
 #### Tools
 
-| Tool | Use | Link |
-|---|---|---|
-| mtls-intercept | Reverse proxy that dynamically signs client certs to MITM full mTLS sessions | [github.com/fungaren/mtls-intercept](https://github.com/fungaren/mtls-intercept) |
-| mitmproxy | Configure client_certs with extracted IoT device cert to impersonate device in mTLS handshake | [mitmproxy.org](https://mitmproxy.org) |
-| SSLsplit | Transparent mTLS proxy - forward extracted device cert to complete mutual handshake with cloud | [github.com/droe/sslsplit](https://github.com/droe/sslsplit) |
-| eCapture (eBPF) | Hook OpenSSL/BoringSSL on Linux IoT gateways pre-encrypt - decrypts mTLS + TLS 1.3 + PFS | [ecapture.cc](https://ecapture.cc) |
-| Wireshark + SSLKEYLOGFILE | Decrypt captured mTLS sessions from IoT gateways using NSS pre-master secret logs | [wiki.wireshark.org/TLS](https://wiki.wireshark.org/TLS) |
-| Frida | Runtime hook SSLContext, TrustManager, KeyManager in Android IoT companion apps | [frida.re](https://frida.re/) |
-| Objection | android sslpinning disable - strips mTLS pinning in companion apps | [github.com/sensepost/objection](https://github.com/sensepost/objection) |
-| apk-mitm | Statically patches IoT companion APK to disable mTLS cert pinning | [github.com/shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) |
-| MagiskTrustUserCerts | Moves custom CA to system store on rooted Android POS/kiosk to complete mTLS MITM | [github.com/NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) |
-| frida-multiple-unpinning | Universal Frida script targeting 20+ mTLS/pinning patterns in hardened IoT apps | [github.com/httptoolkit/frida-android-unpinning](https://github.com/httptoolkit/frida-android-unpinning) |
-| NEU-SNS/IoTLS | IMC'21 research repo - SSLKEYLOGFILE files to decrypt MITM'd mTLS connections across 32 devices | [github.com/NEU-SNS/IoTLS](https://github.com/NEU-SNS/IoTLS) |
-| mitmrouter | Linux-based IoT traffic interception router - intercepts device TLS at network level | [github.com/nmatt0/mitmrouter](https://github.com/nmatt0/mitmrouter) |
+| Tool                      | Use                                                                                             | Link                                                                                                     |
+| ───────────────────────── | ─────────────────────────────────────────────────────────────────────────────────────────────── | ──────────────────────────────────────────────────────────────────────────────────────────────────────── |
+| mtls-intercept            | Reverse proxy that dynamically signs client certs to MITM full mTLS sessions                    | [github.com/fungaren/mtls-intercept](https://github.com/fungaren/mtls-intercept)                         |
+| mitmproxy                 | Configure client_certs with extracted IoT device cert to impersonate device in mTLS handshake   | [mitmproxy.org](https://mitmproxy.org)                                                                   |
+| SSLsplit                  | Transparent mTLS proxy - forward extracted device cert to complete mutual handshake with cloud  | [github.com/droe/sslsplit](https://github.com/droe/sslsplit)                                             |
+| eCapture (eBPF)           | Hook OpenSSL/BoringSSL on Linux IoT gateways pre-encrypt - decrypts mTLS + TLS 1.3 + PFS        | [ecapture.cc](https://ecapture.cc)                                                                       |
+| Wireshark + SSLKEYLOGFILE | Decrypt captured mTLS sessions from IoT gateways using NSS pre-master secret logs               | [wiki.wireshark.org/TLS](https://wiki.wireshark.org/TLS)                                                 |
+| Frida                     | Runtime hook SSLContext, TrustManager, KeyManager in Android IoT companion apps                 | [frida.re](https://frida.re/)                                                                            |
+| Objection                 | Android sslpinning disable - strips mTLS pinning in companion apps                              | [github.com/sensepost/objection](https://github.com/sensepost/objection)                                 |
+| apk-mitm                  | Statically patches IoT companion APK to disable mTLS cert pinning                               | [github.com/shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm)                             |
+| MagiskTrustUserCerts      | Moves custom CA to system store on rooted Android POS/kiosk to complete mTLS MITM               | [github.com/NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts)   |
+| frida-multiple-unpinning  | Universal Frida script targeting 20+ mTLS/pinning patterns in hardened IoT apps                 | [github.com/httptoolkit/frida-android-unpinning](https://github.com/httptoolkit/frida-android-unpinning) |
+| NEU-SNS/IoTLS             | IMC'21 research repo - SSLKEYLOGFILE files to decrypt MITM'd mTLS connections across 32 devices | [github.com/NEU-SNS/IoTLS](https://github.com/NEU-SNS/IoTLS)                                             |
+| mitmrouter                | Linux-based IoT traffic interception router - intercepts device TLS at network level            | [github.com/nmatt0/mitmrouter](https://github.com/nmatt0/mitmrouter)                                     |
 
 #### Blogs & Articles
 
@@ -1013,7 +1012,6 @@
 - [Hands On IoT MitM Part 1 - AWS IoT MQTT + mTLS Interception](https://samrambles.com/projects/hunter-hacking/hands-on-iot-mitm-part-1/)
 - [OWASP MASTG-TECH-0012: Bypassing Certificate Pinning in Android IoT Companion Apps](https://mas.owasp.org/MASTG/techniques/android/MASTG-TECH-0012/)
 - [Theory to Practice: mTLS in Action Part 1](https://klika-tech.com/blog/2025/08/28/theory-to-practice-mtls-in-action-part-1)
-- [Firmware Analysis for IoT Penetration Testing](https://blog.attify.com/)
 - [Configuring mTLS on Mosquitto MQTT Broker](https://mosquitto.org/man/mosquitto-tls-7.html)
 - [AWS IoT Docs: X.509 Client Certificates and Fleet Provisioning](https://docs.aws.amazon.com/iot/latest/developerguide/x509-client-certs.html)
 - [Azure IoT Hub: mTLS X.509 CA Authentication Concept](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-x509ca-concept)
@@ -1119,7 +1117,7 @@
 - [iOS Pentesting Guide](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 - [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
 - [An iOS hacker tries Android](https://googleprojectzero.blogspot.com/2020/12/an-ios-hacker-tries-android.html)
-- [Analyzing IOS Kernel Panic Logs](https://8ksec.io/analyzing-kernel-panic-ios/)
+- [Analyzing iOS Kernel Panic Logs](https://8ksec.io/analyzing-kernel-panic-ios/)
 - [Blasting Past iOS 18](https://blog.dfsec.com/ios/2025/05/30/blasting-past-ios-18/)
 - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 - [First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)](https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html)
@@ -1309,7 +1307,7 @@
 - [Recon-ng](https://github.com/lanmaster53/recon-ng)
 - [PublicWWW](https://publicwww.com/)
 - [FCC ID Database](https://fccid.io/)
-- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub PoC repositories by CVE ID
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub PoC repositories by CVE ID.
 
 ---
 
@@ -1433,7 +1431,6 @@
 - [The Firmware Handbook - Jack Ganssle (2004)](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 - [Learning Linux Binary Analysis - Ryan O'Neill (2016)](https://www.packtpub.com/en-bg/product/learning-linux-binary-analysis-9781782167112)
 - [Fuzzing Against the Machine (2023)](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976)
-- [Practical Binary Analysis - Dennis Andriesse (2018)](https://nostarch.com/binaryanalysis)
 - [Rootkits and Bootkits - Matrosov, Rodionov, Bratus (2019)](https://nostarch.com/rootkits)
 - [Ghidra Software Reverse Engineering 2nd Edition (2025)](https://www.amazon.in/Ghidra-Software-Reverse-Engineering-Beginners-Second/dp/B0DJGQ91R5)
 - [The Ghidra Book 2nd Edition - Nance & Eagle (2026)](https://nostarch.com/ghidra-book-2e)
@@ -1533,7 +1530,6 @@
 
 #### IoT CTFs
 
-- [IoTSec CTF - IoTGoat](https://github.com/scriptingxss/IoTGoat)
 
 #### Embedded/Firmware CTFs
 
@@ -1627,7 +1623,6 @@
 
 ### Villages
 
-- [IoT Village](https://www.iotvillage.org/index.html)
 - [RF Hackers](https://rfhackers.com/)
 
 ### Researchers to Follow
@@ -1745,5 +1740,3 @@
 ## Contributing
 Contributions welcome. Submit a PR with new resources following the existing structure.
 
-## License
-This collection is provided for educational and research purposes.
