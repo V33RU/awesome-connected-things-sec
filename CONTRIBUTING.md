@@ -53,6 +53,14 @@ A huge shoutout to all the incredible individuals who’ve contributed their tim
 | 8  | [Naimul Islam](https://github.com/NaimulIslam9m) |
 | 9  | [beyefendi](https://github.com/beyefendi) |
 | 10 | [Kartheek Lade](https://github.com/KartheekLade) |
+| 11 | [Falcnix](https://github.com/falcnix) |
+| 12 | [bad-antics](https://github.com/bad-antics) |
+| 13 | [hev](https://github.com/hev0x) |
+| 14 | [Jackonetwothree](https://github.com/Jackonetwothree) |
+| 15 | [Naimul Islam](https://github.com/kcnaiamh) |
+| 16 | [Nameet Potnis](https://github.com/NameetP) |
+| 17 | [tg12](https://github.com/tg12) |
+| 18 | [Visoar Zhang](https://github.com/visoar) |
 
 Want to be listed here? Contribute by adding or improving resources.
 
