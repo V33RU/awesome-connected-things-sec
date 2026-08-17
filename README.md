@@ -50,7 +50,7 @@
 
 ---
 
-## Table of Contents
+## Contents
 
 - [Hardware Attacks](#hardware-attacks)
   - [Fundamentals](#fundamentals)
@@ -237,8 +237,6 @@
   - [Pwn2Own Research](#pwn2own-research)
 - [MCP / AI Agent](#mcp-ai-agent)
   - [Bluetooth Reverse Engineering](#bluetooth-reverse-engineering)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Hardware Attacks
 
