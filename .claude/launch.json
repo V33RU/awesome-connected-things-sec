@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "iotsec-built-site",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "/media/mr-iot/1f7cd31a-fcd2-4749-9a4d-6f42031800331/Github/awesome-connected-things-sec-preview/_site"],
+      "port": 8765
+    }
+  ]
+}
