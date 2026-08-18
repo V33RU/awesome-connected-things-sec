@@ -1,8 +1,10 @@
 <h1 align="center">🔐 Awesome Connected Things Security Resources</h1>
-<p align="center">A curated repository of IoT, Embedded, Industrial & Automotive, Core Tech security knowledge.</p>
+<p align="center">Security research and exploitation techniques for IoT, embedded, industrial, and automotive systems.</p>
 
 <p align="center">
-  <img src="/docs/images/banner.png"/>
+  <a href="https://github.com/V33RU/awesome-connected-things-sec">
+    <img src="/docs/images/banner.png" width="900"/>
+  </a>
 </p>
 
 <p align="center">
@@ -163,7 +165,6 @@
 - [A Journey into IoT Hardware Hacking: UART](https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/)
 - [Accessing and Dumping Firmware Through UART](https://www.cyberark.com/resources/threat-research-blog/fantastic-rootkits-and-where-to-find-them-part-1)
 - [UART Connections and Dynamic Analysis on Linksys e1000](https://www.youtube.com/watch?v=ix6rSV2Dj44)
-- [UARTBruteForcer](https://github.com/FireFart/UARTBruteForcer)
 
 #### JTAG
 
@@ -265,7 +266,6 @@
 ### RF Fundamentals
 
 - [Complete Course in Software Defined Radio - Michael Ossmann](https://greatscottgadgets.com/sdr/)
-- [Awesome SDR - Curated SDR Resources](https://github.com/temumer/awesome-sdr)
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
 - [Introduction to Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
 - [Introduction to GNU Radio Companion](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC)
@@ -333,7 +333,6 @@
 - [Testing with GATT Tool](https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/)
 - [crackle - Cracking BLE Encryption](https://github.com/mikeryan/crackle)
 - [bettercap](https://github.com/bettercap/bettercap)
-- [BtleJuice - Bluetooth Smart MITM Framework](https://github.com/DigitalSecurity/btlejuice)
 - [GATTacker](https://github.com/securing/gattacker)
 - [BTLEjack - BLE Swiss Army Knife](https://github.com/virtualabs/btlejack)
 - [DEDSEC Bluetooth Exploit](https://github.com/0xbitx/DEDSEC-Bluetooth-exploit)
@@ -452,7 +451,6 @@
 - [5G NR Jamming, Spoofing and Sniffing](https://github.com/aligungr/UERANSIM)
 - [LTrack: Stealthy Tracking of Mobile Phones in LTE](https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak)
 - [Open5GS - Open Source 5G/4G Core](https://github.com/open5gs/open5gs)
-- [srsRAN 5G - Open Source 5G Stack](https://github.com/srsran/srsRAN_Project)
 - [SCAT - Signaling Collection and Analysis Tool for Cellular](https://github.com/fgsect/scat)
 
 #### Fundamentals
@@ -1165,7 +1163,6 @@
 - [OWASP Fuzzing Info](https://owasp.org/www-community/Fuzzing)
 - [Fuzz Testing of Application Reliability](https://pages.cs.wisc.edu/~bart/fuzz/)
 - [FuzzingPaper Collection](https://github.com/wcventure/FuzzingPaper/tree/master/Paper)
-- [Google Fuzzing Forum](https://github.com/google/fuzzing)
 
 #### IoT-Specific Fuzzing
 
@@ -1397,7 +1394,6 @@
 
 - [DVID - Damn Vulnerable IoT Device](https://github.com/Vulcainreo/DVID)
 - [IoTGoat - Vulnerable OpenWrt Firmware](https://github.com/scriptingxss/IoTGoat)
-- [DVRF - Damn Vulnerable Router Firmware](https://github.com/praetorian-code/DVRF)
 - [BLE CTF](https://github.com/hackgnar/ble_ctf)
 - [Microcorruption](https://microcorruption.com/login)
 - [ARM-X CTF](https://github.com/therealsaumil/armx)
