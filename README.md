@@ -905,6 +905,8 @@
 
 #### Blogs & Articles
 
+- [CVE-2024-45163: Mirai Botnet Kill-Switch (CVSS 9.1)](https://nvd.nist.gov/vuln/detail/CVE-2024-45163) - Critical vulnerability enabling remote shutdown of Mirai botnet C2 infrastructure, directly impacting IoT botnets. [Research](https://traztech.ca/research).
+
 - [mTLS: When Certificate Authentication is Done Wrong](https://github.blog/security/vulnerability-research/mtls-when-certificate-authentication-is-done-wrong/)
 - [mTLS Authentication in IoT: Enhancing Security for Connected Devices](https://www.regamiota.com/post/mtls-authentication-in-iot-enhancing-security-for-connected-devices)
 - [Hands On IoT MitM Part 1 - AWS IoT MQTT + mTLS Interception](https://samrambles.com/projects/hunter-hacking/hands-on-iot-mitm-part-1/)
