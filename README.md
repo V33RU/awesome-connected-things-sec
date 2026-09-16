@@ -518,6 +518,7 @@
 - [ALL ABOUT USB-C: INTRODUCTION FOR HACKERS](https://hackaday.com/2022/12/06/usb-c-introduction-for-hackers/)
 - [Hi, My Name is Keyboard](https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md)
 - [How to Weaponize the Yubikey](https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/)
+- [Bad USB Using Arduino](https://www.instructables.com/A-BadUSB-Device-With-Arduino/)
 
 ### UWB (Ultra-Wideband)
 
