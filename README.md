@@ -1367,6 +1367,7 @@
 
 - [The Car Hacker's Handbook - Craig Smith (2016)](https://nostarch.com/carhacking)
 - [Building Secure Automotive IoT Applications - Oka et al. (2024)](https://www.packtpub.com/en-us/product/building-secure-automotive-iot-applications-9781835465509)
+- [Automotive Threat Analysis and Risk Assessment in Practice - do Carmo & Schlensog (2024)](https://link.springer.com/book/10.1007/978-3-662-69614-9)
 - [Offensive Automotive Cybersecurity - Nasser & Oka (2025)](https://www.packtpub.com/en-us/product/offensive-automotive-cybersecurity-9781836648628)
 
 #### Industrial and General Security
@@ -1375,6 +1376,7 @@
 - [Black Hat Python 2nd Edition (2021)](https://nostarch.com/black-hat-python-2nd-edition)
 - [Attacking Network Protocols - James Forshaw (2017)](https://nostarch.com/networkprotocols)
 - [Securing Industrial Control Systems - Rahman et al. (2026)](https://www.amazon.com/Securing-Industrial-Control-Systems-Technologies/dp/303203017X)
+- [Cybersecurity for Products and Production: A Practical Guide based on IEC 62443 and EU Cyber Resilience Act - Schlensog, do Carmo, Rafiee & Abeling (2026)](https://www.amazon.com/dp/3662741296)
 
 #### White Papers and Reports
 
