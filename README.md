@@ -1,5 +1,6 @@
-<h1 align="center">🔐 Awesome Connected Things Security Resources</h1>
-<p align="center">Security research and exploitation techniques for IoT, embedded, industrial, and automotive systems.</p>
+# Awesome Connected Things Security [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+Security research and exploitation techniques for IoT, embedded, industrial, and automotive systems.
 
 <p align="center">
   <a href="https://github.com/V33RU/awesome-connected-things-sec">
@@ -8,10 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
   <img src="https://img.shields.io/github/stars/V33RU/awesome-connected-things-sec?style=flat-square&logo=github&label=Stars&color=gold"/>
   <img src="https://img.shields.io/github/forks/V33RU/awesome-connected-things-sec?style=flat-square&logo=git&label=Forks&color=blue"/>
-  <img src="https://img.shields.io/github/license/V33RU/awesome-connected-things-sec?style=flat-square&label=License&color=green"/>
   <img src="https://img.shields.io/github/last-commit/V33RU/awesome-connected-things-sec?style=flat-square&label=Updated&color=red"/>
   <img src="https://img.shields.io/badge/Resources-900%2B-blueviolet?style=flat-square"/>
 </p>
@@ -557,7 +556,6 @@
 - [EMBA - Embedded Linux Firmware Analyzer](https://p4cx.medium.com/emba-b370ce503602)
 - [FACT - Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core)
 - [Binwalk v3](https://github.com/ReFirmLabs/binwalk)
-- [Firmwalker](https://github.com/craigz28/firmwalker)
 - [fwanalyzer](https://github.com/cruise-automation/fwanalyzer)
 - [fwhunt-scan - UEFI Firmware Analysis](https://github.com/binarly-io/fwhunt-scan)
 - [ByteSweep](https://gitlab.com/bytesweep/bytesweep)
@@ -1136,7 +1134,6 @@
 - [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
 - [Expliot Framework](https://gitlab.com/expliot_framework/expliot)
 - [RouterSploit](https://github.com/threat9/routersploit)
-- [HomePwn](https://github.com/ElevenPaths/HomePWN)
 - [Firmware Analysis Toolkit (FAT)](https://github.com/attify/firmware-analysis-toolkit)
 - [Shambles: The Next-Generation IoT Reverse Engineering Tool](https://boschko.ca/shambles/)
 

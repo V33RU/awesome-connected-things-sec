@@ -8,3 +8,5 @@ Tools and resources previously listed in the main README that are now archived, 
 - [srsRAN 5G - Open Source 5G Stack](https://github.com/srsran/srsRAN_Project) - Archived upstream.
 - [Google Fuzzing Forum](https://github.com/google/fuzzing) - Archived upstream.
 - [DVRF - Damn Vulnerable Router Firmware](https://github.com/praetorian-code/DVRF) - Archived upstream.
+- [Firmwalker](https://github.com/craigz28/firmwalker) - Repo no longer exists (404).
+- [HomePwn](https://github.com/ElevenPaths/HomePWN) - Archived upstream since 2022-12.
