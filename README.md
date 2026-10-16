@@ -887,7 +887,7 @@ Security research and exploitation techniques for IoT, embedded, industrial, and
 #### Tools
 
 | Tool                      | Use                                                                                             | Link                                                                                                     |
-| ───────────────────────── | ─────────────────────────────────────────────────────────────────────────────────────────────── | ──────────────────────────────────────────────────────────────────────────────────────────────────────── |
+| ------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | mtls-intercept            | Reverse proxy that dynamically signs client certs to MITM full mTLS sessions                    | [github.com/fungaren/mtls-intercept](https://github.com/fungaren/mtls-intercept)                         |
 | mitmproxy                 | Configure client_certs with extracted IoT device cert to impersonate device in mTLS handshake   | [mitmproxy.org](https://mitmproxy.org)                                                                   |
 | SSLsplit                  | Transparent mTLS proxy - forward extracted device cert to complete mutual handshake with cloud  | [github.com/droe/sslsplit](https://github.com/droe/sslsplit)                                             |
