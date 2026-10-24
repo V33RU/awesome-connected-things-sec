@@ -141,6 +141,7 @@ Security research and exploitation techniques for IoT, embedded, industrial, and
   - [Pwn2Own Research](#pwn2own-research)
 - [MCP / AI Agent](#mcp--ai-agent)
   - [Bluetooth Reverse Engineering](#bluetooth-reverse-engineering)
+  - [Network Traffic Auditing](#network-traffic-auditing)
 
 ## Hardware Attacks
 
@@ -1627,6 +1628,10 @@ Security research and exploitation techniques for IoT, embedded, industrial, and
 ### Bluetooth Reverse Engineering
 
 - [bt-re-mad-skillz](https://github.com/darkmentorllc/bt-re-mad-skillz) - LLM skills for Bluetooth Controller firmware RE at the HCI layer, for Claude Code and ChatGPT/Codex.
+
+### Network Traffic Auditing
+
+- [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - CLI and MCP server that audits your own smart home devices locally: cloud destinations and countries, unencrypted traffic, open ports, UPnP port forwards and an A-F grade per device.
 
 ---
 
