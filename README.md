@@ -1201,6 +1201,7 @@ Security research and exploitation techniques for IoT, embedded, industrial, and
 - [Recon-ng](https://github.com/lanmaster53/recon-ng)
 - [PublicWWW](https://publicwww.com/)
 - [FCC ID Database](https://fccid.io/)
+- [OpenDeviceDB](https://opendevicedb.org/) - Searchable directory linking device models and hardware identifiers to open firmware, drivers, tools, and protocol research.
 - [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub PoC repositories by CVE ID.
 
 ---
