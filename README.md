@@ -141,6 +141,7 @@ Security research and exploitation techniques for IoT, embedded, industrial, and
   - [Pwn2Own Research](#pwn2own-research)
 - [MCP / AI Agent](#mcp--ai-agent)
   - [Bluetooth Reverse Engineering](#bluetooth-reverse-engineering)
+  - [USB Protocol Reverse Engineering](#usb-protocol-reverse-engineering)
 
 ## Hardware Attacks
 
@@ -1627,6 +1628,10 @@ Security research and exploitation techniques for IoT, embedded, industrial, and
 ### Bluetooth Reverse Engineering
 
 - [bt-re-mad-skillz](https://github.com/darkmentorllc/bt-re-mad-skillz) - LLM skills for Bluetooth Controller firmware RE at the HCI layer, for Claude Code and ChatGPT/Codex.
+
+### USB Protocol Reverse Engineering
+
+- [usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Infers USB device protocols from labelled usbmon/USBPcap captures and generates a pyusb driver. Also works as an MCP server.
 
 ---
 
