@@ -1202,6 +1202,7 @@ Security research and exploitation techniques for IoT, embedded, industrial, and
 - [PublicWWW](https://publicwww.com/)
 - [FCC ID Database](https://fccid.io/)
 - [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub PoC repositories by CVE ID.
+- [Whatoblock](https://whatoblock.com/) - Honeypot data on IoT botnet scanners and C2 servers, with the captured payloads and default credentials they try.
 
 ---
 
