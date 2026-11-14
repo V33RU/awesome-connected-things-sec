@@ -1513,6 +1513,8 @@ Security research and exploitation techniques for IoT, embedded, industrial, and
 - [IoTSecurity101 Telegram](https://t.me/iotsecurity1011)
 - [IoTSecurity101 Reddit](https://www.reddit.com/r/IoTSecurity101/)
 - [Hardware Hacking Telegram](https://t.me/hardwareHackingBrasil)
+- [Hardware Hacking Spain Telegram (Spanish)](https://t.me/hardwarehackingspain)
+- [Hardware Hacking ES Discord (Spanish)](https://discord.gg/wkWr6Dj46D)
 
 ### Villages
 
