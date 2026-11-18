@@ -556,6 +556,7 @@ Security research and exploitation techniques for IoT, embedded, industrial, and
 - [EMBA - Embedded Linux Firmware Analyzer](https://p4cx.medium.com/emba-b370ce503602)
 - [FACT - Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core)
 - [Binwalk v3](https://github.com/ReFirmLabs/binwalk)
+- [REA](https://github.com/morluto/rea) - Local CLI and MCP server for inspecting firmware regions with Binwalk and recording extraction evidence with Unblob on Linux.
 - [fwanalyzer](https://github.com/cruise-automation/fwanalyzer)
 - [fwhunt-scan - UEFI Firmware Analysis](https://github.com/binarly-io/fwhunt-scan)
 - [ByteSweep](https://gitlab.com/bytesweep/bytesweep)
