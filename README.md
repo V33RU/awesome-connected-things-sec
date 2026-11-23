@@ -563,6 +563,7 @@ Security research and exploitation techniques for IoT, embedded, industrial, and
 - [unblob - Extraction Framework](https://github.com/onekey-sec/unblob)
 - [Checksec.sh](https://github.com/slimm609/checksec.sh)
 - [Firmware Modification Kit](https://code.google.com/archive/p/firmware-mod-kit/)
+- [Treasure Map](https://github.com/JoeyZzZzZz/treasure-map) - Firmware map of dangerous call sites and patch diffs for AI agents over MCP.
 
 ### Dynamic Analysis and Emulation
 
